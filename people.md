@@ -21,3 +21,7 @@ networks and how/why they are changing in different pathologic conditions.
 
 [Twitter](https://twitter.com/endre_sebestyen), [Google
 Scholar](https://scholar.google.com/citations?hl=en&user=EFq-0McAAAAJ&view_op=list_works&sortby=pubdate)
+
+
+<h3>Peter Szikora</h3>
+I am a master student in Medical Biotechnology at Pazmany Peter Catholic University.
