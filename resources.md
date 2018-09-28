@@ -17,6 +17,9 @@ computing resources and other interesting things.
 - [Reading list](https://github.com/esebesty/reading_list) to get you started in
   computational biology, cancer, genomics, transcriptomics, chromatin and
   molecular biology in general.
+- A rather short guide on [how to survive in the
+  lab](https://github.com/esebesty/lab_guide). Trying to improve it in the near
+  future.
 - Jeff Leek has a bunch of guides on how to [share
   data](https://github.com/jtleek/datasharing), [develop an R
   package](https://github.com/jtleek/rpackages), [give a
