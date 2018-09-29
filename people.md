@@ -24,4 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=EFq-0McAAAAJ&view_op=li
 
 
 <h3>Peter Szikora</h3>
-I am a master student in Medical Biotechnology at Pazmany Peter Catholic University.
+
+I am a master student in Medical Biotechnology at Pazmany Peter Catholic University, focusing on molecular oncology and genomics. Before that I completed my professional practice in the National Institute of 
+Environmental Health, working on the molecular analysis of pathogenic bacteria from hospital water samples. I am currently studying and working on the analysis of genomic data and gene regulatory networks for cancer 
+research.
