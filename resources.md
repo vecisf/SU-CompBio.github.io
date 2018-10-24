@@ -50,6 +50,14 @@ computing resources and other interesting things.
 - [MTA Cloud](https://cloud.mta.hu/) for academic researchers
 - [Hungarian Supercomputing Infrastructure](http://hpc.niif.hu/index_en.php)
 
+<h3>Scientific societies</h3>
+
+- [Hungarian Society for Bioinformatics](http://mabit.ttk.mta.hu/doc/en/home)
+- [Hungarian Genetics Society](http://www.magenegy.hu/hu/)
+- [Hungarian Biochemical Society](http://www.mbkegy.hu/apps/mbkegy/pages/index.php)
+- [Hungarian Cancer Society](http://oncology.hu/index.php#)
+- [Hungarian Society of Human Genetics](http://www.mhgt.hu/home.html)
+
 <h3>Miscellanea</h3>
 
 - [The Research Parasite Awards](http://researchparasite.com/): Celebrating
