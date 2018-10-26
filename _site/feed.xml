@@ -1,3 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-04T10:43:54+02:00</updated><id>http://localhost:4000/</id><title type="html">Semmelweis University Computational Biology Group</title><subtitle>Semmelweis University Computational Biology Group at the 1st Department of Pathology and Experimental Cancer Research. H-1085 Budapest, Üllői út 26. Hungary</subtitle><entry><title type="html">It’s alive!</title><link href="http://localhost:4000/update/2018/09/01/its-alive.html" rel="alternate" type="text/html" title="It's alive!" /><published>2018-09-01T00:00:00+02:00</published><updated>2018-09-01T00:00:00+02:00</updated><id>http://localhost:4000/update/2018/09/01/its-alive</id><content type="html" xml:base="http://localhost:4000/update/2018/09/01/its-alive.html">&lt;p&gt;The group website is alive and we are looking for interested master or TDK
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-26T09:35:13+02:00</updated><id>http://localhost:4000/</id><title type="html">Semmelweis University Computational Biology Group</title><subtitle>Semmelweis University Computational Biology Group at the 1st Department of Pathology and Experimental Cancer Research. H-1085 Budapest, Üllői út 26. Hungary</subtitle><entry><title type="html">Conferences and workshops</title><link href="http://localhost:4000/update/2018/10/26/interesting-conferences-and-workshops.html" rel="alternate" type="text/html" title="Conferences and workshops" /><published>2018-10-26T00:00:00+02:00</published><updated>2018-10-26T00:00:00+02:00</updated><id>http://localhost:4000/update/2018/10/26/interesting-conferences-and-workshops</id><content type="html" xml:base="http://localhost:4000/update/2018/10/26/interesting-conferences-and-workshops.html">&lt;p&gt;An occasional collection of conferences, workhops and other things going on in
+Hungary and relevant for bionformatics, genomics and systems biology. Drop us an
+email if you know about something interesting.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Semmelweis Symposium - New approaches in personalized medicine: From prenatal
+testing to targeted tumor therapy. November 8-9, 2018, Basic Science Center,
+Semmelweis University. More details and program
+&lt;a href=&quot;http://semmelweis.hu/symposium/en/semmelweis-symposium-2018/invitation/&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://medinprot.chem.elte.hu/calendar/events/10-medinprot-konferencia&quot;&gt;10th MedInProt
+Conference&lt;/a&gt;
+organized by the Protein Science Research Synergy Program. November 10, 2018,
+ELTE TTK.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://indico.kfki.hu/event/904/&quot;&gt;Machine Learning and Visual Analytics in the Clouds
+Workshop&lt;/a&gt;. October 29-30, 2018, Hotel
+Mercure Buda. Organized by CERN, MTA SZTAKI, MTA WIGNER RCP and the
+universities of BME, ELTE together with the HEPTech Network. Free for
+students.&lt;/li&gt;
+  &lt;li&gt;Bioinspired analysis of dynamical systems and Protein network analysis
+workshops. January 10-12, 2019, Esztergom, Pázmány Péter Catholic University .
+Details and program
+&lt;a href=&quot;https://efop362.itk.ppke.hu/conferences/bioinspired-networks&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fpsom.github.io/2018-12-01-elixir-debrecen/&quot;&gt;Software Carpentry
+workshop&lt;/a&gt;, supported by
+ELIXIR. December 1-2, 2018, University of Debrecen, Medical Faculty.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eventbrite.co.uk/e/rna-seq-data-analysis-by-using-the-galaxy-platform-registration-51516339759&quot;&gt;RNA Seq Data Analysis using
+Galaxy&lt;/a&gt;.
+November 17, 2018, University of Debrecen, Medical Faculty.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jelentkezes.scindikator.hu/&quot;&gt;SCIndikátor 2019&lt;/a&gt;, science communication
+mentor program.&lt;/li&gt;
+  &lt;li&gt;Various meetups of interest, including the &lt;a href=&quot;https://www.meetup.com/BpScienceMeetup/&quot;&gt;Budapest Science
+Meetup&lt;/a&gt;, &lt;a href=&quot;https://www.meetup.com/Budapest-Users-of-R-Network/&quot;&gt;Budapest Users of R
+Network&lt;/a&gt; and
+&lt;a href=&quot;https://www.meetup.com/budapest-py/&quot;&gt;budapest.py&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">An occasional collection of conferences, workhops and other things going on in Hungary and relevant for bionformatics, genomics and systems biology. Drop us an email if you know about something interesting.</summary></entry><entry><title type="html">It’s alive!</title><link href="http://localhost:4000/update/2018/09/01/its-alive.html" rel="alternate" type="text/html" title="It's alive!" /><published>2018-09-01T00:00:00+02:00</published><updated>2018-09-01T00:00:00+02:00</updated><id>http://localhost:4000/update/2018/09/01/its-alive</id><content type="html" xml:base="http://localhost:4000/update/2018/09/01/its-alive.html">&lt;p&gt;The group website is alive and we are looking for interested master or TDK
 students. See more about the research topics &lt;a href=&quot;/research/&quot;&gt;here&lt;/a&gt;. Information on
 positions &lt;a href=&quot;/positions/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">The group website is alive and we are looking for interested master or TDK students. See more about the research topics here. Information on positions here.</summary></entry></feed>
