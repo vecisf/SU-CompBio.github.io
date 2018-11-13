@@ -55,7 +55,7 @@ criteria and send an expression of interest, consisting of a CV, list of
 publications, 2 reference letters, a one paragraph summary of your most
 significant scientific contribution, and another paragraph on what your main
 interests and goals are in a single PDF to the following email address:
-sebestyen.endre@med.semmelweis-univ.hu with “Stipendium Hungaricum Fellowship –
+[sebestyen.endre@med.semmelweis-univ.hu](mailto:sebestyen.endre@med.semmelweis-univ.hu) with “Stipendium Hungaricum Fellowship –
 Mutation variation” in the subject, by no later than 16th of December, 2018.
 
 The expected deadline for the fellowship application is 15th of January, 2019.
