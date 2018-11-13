@@ -5,9 +5,12 @@ permalink: /positions/
 order: 5
 ---
 
-Fully-funded open positions will be advertised here. If you don't see anything,
-but are still interested in working with the group as an MSc student, PhD
-student or postdoc, drop us an email with the following information.
+Fully-funded open positions and other opportunities will be posted in the Group
+News section. If you don't see anything current there, but are still interested
+in working with the group as an MSc student, PhD student or postdoc, drop us an
+email with the following information. Application procedure for a specific
+position in the Group News section might be slightly different from the one
+described here.
 
 <h3>If you are an MSc student looking for a thesis/TDK topic</h3>
 
