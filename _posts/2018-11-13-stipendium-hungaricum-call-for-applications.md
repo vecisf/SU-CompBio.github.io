@@ -16,14 +16,16 @@ Fellowship and in case of a successful application, join our new computational
 biology group at [Semmelweis University](http://semmelweis.hu/). Semmelweis
 University is the oldest medical university in Hungary, integrating education,
 research and healing. The 1st Department of Pathology and Experimental Cancer
-Research possesses over 150 years of experience in diagnostic pathology, medical
-training and various fields of experimental cancer research.
+Research, where the group is located, possesses over 150 years of experience in
+diagnostic pathology, medical training and various fields of experimental cancer
+research. The fellowship provides exemption from the PhD tuition fee, gives a
+monthly stipend, contributes to accommodation costs and medical insurance.
 
 The PhD research will focus on understanding mutation rate and mutation
 signature variation across the cancer genome, influenced by DNA damage repair
 enzyme expression variation, besides various genomic features like 3D genome
 structure, histone marks, lamina-associated domains, DNA shape and DNA-protein
-interactions.  Candidates should be interested in cancer, bioinformatics,
+interactions. Candidates should be interested in cancer, bioinformatics,
 genomics, mutation signatures, chromatin structure, molecular noise and
 evolution.
 
@@ -55,8 +57,9 @@ criteria and send an expression of interest, consisting of a CV, list of
 publications, 2 reference letters, a one paragraph summary of your most
 significant scientific contribution, and another paragraph on what your main
 interests and goals are in a single PDF to the following email address:
-[sebestyen.endre@med.semmelweis-univ.hu](mailto:sebestyen.endre@med.semmelweis-univ.hu) with “Stipendium Hungaricum Fellowship –
-Mutation variation” in the subject, by no later than 16th of December, 2018.
+[sebestyen.endre@med.semmelweis-univ.hu](mailto:sebestyen.endre@med.semmelweis-univ.hu)
+with “Stipendium Hungaricum Fellowship – Mutation variation” in the subject, by
+no later than 16th of December, 2018.
 
 The expected deadline for the fellowship application is 15th of January, 2019.
 Selected candidate(s) will be fully supported during the application procedure.
