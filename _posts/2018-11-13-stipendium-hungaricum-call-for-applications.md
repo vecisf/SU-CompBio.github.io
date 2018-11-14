@@ -15,11 +15,12 @@ We are looking for interested candidates to submit a Stipendium Hungaricum PhD
 Fellowship and in case of a successful application, join our new computational
 biology group at [Semmelweis University](http://semmelweis.hu/). Semmelweis
 University is the oldest medical university in Hungary, integrating education,
-research and healing. The 1st Department of Pathology and Experimental Cancer
-Research, where the group is located, possesses over 150 years of experience in
-diagnostic pathology, medical training and various fields of experimental cancer
-research. The fellowship provides exemption from the PhD tuition fee, gives a
-monthly stipend, contributes to accommodation costs and medical insurance.
+research and healing. The [1st Department of Pathology and Experimental Cancer
+Research](http://semmelweis.hu/patologia1/en/), where the group is located,
+possesses over 150 years of experience in diagnostic pathology, medical training
+and various fields of experimental cancer research. The fellowship provides
+exemption from the PhD tuition fee, gives a monthly stipend, contributes to
+accommodation costs and medical insurance.
 
 The PhD research will focus on understanding mutation rate and mutation
 signature variation across the cancer genome, influenced by DNA damage repair
