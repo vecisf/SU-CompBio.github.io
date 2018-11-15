@@ -8,5 +8,4 @@ Cancer Research](http://semmelweis.hu/patologia1/en/).
 
 We are focusing on the computational and systems biology of human diseases. We
 aim to provide novel biological insight using existing large-scale public
-datasets. Our work is highly interdisciplinary, at the crossroad of biology,
-medicine, informatics and data science.
+datasets.
