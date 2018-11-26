@@ -20,7 +20,9 @@ non-coding enhancer regions.  My main interests are eukaryotic gene regulatory
 networks and how/why they are changing in different pathologic conditions.
 
 [Twitter](https://twitter.com/endre_sebestyen), [Google
-Scholar](https://scholar.google.com/citations?hl=en&user=EFq-0McAAAAJ&view_op=list_works&sortby=pubdate)
+Scholar](https://scholar.google.com/citations?hl=en&user=EFq-0McAAAAJ&view_op=list_works&sortby=pubdate),
+[doktori.hu](https://doktori.hu/index.php?menuid=192&lang=EN&sz_ID=30562),
+[figshare](https://figshare.com/authors/Endre_Sebesty_n/403853)
 
 
 <h3>Peter Szikora</h3>
