@@ -25,14 +25,14 @@ described here.
   Although the number of fully funded fellowships at the university are limited,
   external funding might be available through Stipendium Hungaricum (see below)
   or other means.
-- Write an email with your CV, a one paragraph summary of your most significant
-  scientific contribution, and another paragraph on what you would like to do
-  with us. The topic should be broadly connected to what we already do. The
-  "scientific contribution" might be anything ranging from a conference poster
-  to an interesting dataset, or an R package, not only publications. However, it
-  must be available online, for example at [GitHub](https://github.com/),
-  [figshare](https://figshare.com/), [zenodo](http://zenodo.org/),
-  [protocols.io](https://www.protocols.io/), etc.
+- Write an email with your CV, 2 reference letters, a one paragraph summary of
+  your most significant scientific contribution, and another paragraph on what
+  you would like to do with us combined into a single pdf. The topic should be
+  broadly connected to what we already do. The "scientific contribution" might
+  be anything ranging from a conference poster to an interesting dataset, or an
+  R package, not only publications. However, it must be available online, for
+  example at [GitHub](https://github.com/), [figshare](https://figshare.com/),
+  [zenodo](http://zenodo.org/), [protocols.io](https://www.protocols.io/), etc.
 
 <h3>If you are looking for a postdoc position</h3>
 
