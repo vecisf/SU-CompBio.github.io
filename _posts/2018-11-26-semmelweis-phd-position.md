@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PhD position at the Károly Rácz School of PhD Studies"
+title: "Position at the Károly Rácz School of PhD Studies"
 date: 2018-11-26 00:00:00 +0200
 categories: update
 ---
