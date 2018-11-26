@@ -62,7 +62,7 @@ interests and goals are in a single PDF to the following email address:
 with “Stipendium Hungaricum Fellowship – Mutation variation” in the subject, by
 no later than 16th of December, 2018.
 
-The deadline for the fellowship application is 15th of January, 2019.  Selected
+The deadline for the fellowship application is 15th of January, 2019. Selected
 candidate(s) will be fully supported during the application procedure.
 
 ## Additional information
