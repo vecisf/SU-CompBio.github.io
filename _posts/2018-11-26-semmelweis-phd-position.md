@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "PhD position at the Károly Rácz School of PhD Studies"
 date: 2018-11-26 00:00:00 +0200
 categories: update
 ---
@@ -8,7 +8,7 @@ categories: update
 ## Transcriptional adaptation and minimal regulatory networks in cancer
 
 We are looking for a candidate to join the [Semmelweis
-University](http://semmelweis.hu/english/) [Karoly Racz School of PhD
+University](http://semmelweis.hu/english/) [Károly Rácz School of PhD
 Studies](http://semmelweis.hu/phd/en/) and our new computational biology group.
 Semmelweis University is the oldest medical university in Hungary, integrating
 education, research and healing. The [1st Department of Pathology and
@@ -63,6 +63,8 @@ supported during the application procedure.
 ## Additional information
 
 [Thesis topic description at doktori.hu](https://doktori.hu/index.php?menuid=195&lang=EN&tk_ID=154710)
+
+[Semmelweis University - Károly Rácz School of PhD Studies](http://semmelweis.hu/phd/)
 
 The tuition fee mentioned [here](http://semmelweis.hu/phd/en/felveteli-2-en/)
 refers only to students who apply for a non state-sponsored PhD position.
