@@ -22,7 +22,7 @@ Our main goal will be to understand the effect of genetic redundancy, degeneracy
 and essentiality on disease causing mutations using computational tools and
 large-scale biological datasets. Candidates should be interested in gene
 regulatory networks, RNA biology, cancer, systems biology, bioinformatics and
-and genomics.
+genomics.
 
 *What we offer*
 
