@@ -31,18 +31,18 @@ computing resources and other interesting things.
 
 <h3>Websites and databases</h3>
 
-- [The Cancer Genome Atlas](https://cancergenome.nih.gov/)
-- [International Cancer Genome Consortium](https://icgc.org/)
+- [1000 Genomes Project](http://www.internationalgenome.org/)
+- [BLUEPRINT of Haematopoietic Epigenomes](http://www.blueprint-epigenome.eu/)
 - [Clinical Proteomic Tumor Analysis Consortium](https://cptac-data-portal.georgetown.edu/cptacPublic/)
 - [Encyclopedia of DNA Elements](https://www.encodeproject.org/)
-- [Roadmap Epigenomics Project](http://www.roadmapepigenomics.org/)
-- [A BLUEPRINT of Haematopoietic Epigenomes](http://www.blueprint-epigenome.eu/)
 - [Genotype-Tissue Expression Project](https://gtexportal.org/home/)
-- [The Geuvadis Project](http://www.geuvadis.org/)
-- [1000 Genomes Project](http://www.internationalgenome.org/)
 - [Human Cell Atlas](https://www.humancellatlas.org/)
-- [Library of Integrated Network-Based Cellular Signatures](http://www.lincsproject.org/)
 - [Human Induced Pluripotent Stem Cell Initiative](http://www.hipsci.org/)
+- [International Cancer Genome Consortium](https://icgc.org/)
+- [Library of Integrated Network-Based Cellular Signatures](http://www.lincsproject.org/)
+- [Roadmap Epigenomics Project](http://www.roadmapepigenomics.org/)
+- [The Cancer Genome Atlas](https://cancergenome.nih.gov/)
+- [The Geuvadis Project](http://www.geuvadis.org/)
 - [The Human Protein Atlas](https://www.proteinatlas.org/)
 
 <h3>Computing resources</h3>
