@@ -1,0 +1,10 @@
+# jekyll
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+# osx
+.DS_Store
+# backup
+*~
+# swap
+*.swp
