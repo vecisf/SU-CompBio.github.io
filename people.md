@@ -10,7 +10,7 @@ order: 3
 I obtained my PhD in 2012 at the [Eötvös Loránd
 University](https://www.elte.hu/en/), in Classical and Molecular Genetics,
 working on the bioinformatic analysis of eukaryotic promoters and transcription
-factor binding sites in the group of [Endre Barta](https://abc.naik.hu/szervezeti-egysegek/mbk-genomikai-foosztaly-mezogazdasagi-genomikai-es-bioinformatikai-csoport).
+factor binding sites in the group of [Endre Barta](https://abc.naik.hu/en/organizational-units/abc-department-of-genomics-agricultural-genomics-and-bioinformatics).
 After this, I joined the lab of [Eduardo Eyras](http://comprna.upf.edu/) at UPF,
 Barcelona, working on the role of alternative splicing in cancer development and
 using splicing patterns as predictive and prognostic signatures of cancer. In
