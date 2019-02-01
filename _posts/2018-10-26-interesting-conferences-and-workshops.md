@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Conferences and workshops"
-date:   2018-10-26 00:00:00 +0200
+date:   2018-10-26 14:00:00 +0200
 categories: update
 ---
 

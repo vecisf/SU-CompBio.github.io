@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "EPITRAN COST Network"
-date:   2019-01-02 00:00:00 +0200
+date:   2019-01-02 14:00:00 +0200
 categories: update
 ---
 

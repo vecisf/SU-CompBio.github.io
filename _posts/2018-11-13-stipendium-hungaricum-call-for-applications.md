@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stipendium Hungaricum - Call for Applications 2019/2020"
-date:   2018-11-13 00:00:00 +0200
+date:   2018-11-13 14:00:00 +0200
 categories: update
 ---
 
