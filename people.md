@@ -41,3 +41,6 @@ I'm working on the analysis of genome, transcriptome and ChIP-seq datasets to
 develop novel tools for characterizing variance in chromatin structure, link it
 to oncogene or tumor suppressor gene expression and ultimately to cancer
 development and clinical characteristics of patients.
+
+
+<h3>Andras Udvarvolgyi</h3>
