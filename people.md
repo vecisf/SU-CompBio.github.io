@@ -41,3 +41,10 @@ I'm working on the analysis of genome, transcriptome and ChIP-seq datasets to
 develop novel tools for characterizing variance in chromatin structure, link it
 to oncogene or tumor suppressor gene expression and ultimately to cancer
 development and clinical characteristics of patients.
+
+
+<h3>Andras Udvarvolgyi</h3>
+I am a biochemical engineering student at Budapest University of Technology and Economics.
+My current project is about panel sequencing and evaluating raw data, and the goal is to
+find patterns, similarities among the different samples, which were collected from patients
+with cancer.
