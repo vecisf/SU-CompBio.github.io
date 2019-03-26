@@ -59,6 +59,7 @@ computing resources and other interesting things.
 - [Hungarian Cancer Society](http://oncology.hu/index.php#)
 - [Hungarian Society of Human Genetics](http://www.mhgt.hu/home.html)
 - [Association of Clinical Biostatistics](http://www.biostat.hu/)
+- [Hungarian ELIXIR node](http://www.elixir-hungary.org/)
 
 <h3>Miscellanea</h3>
 
