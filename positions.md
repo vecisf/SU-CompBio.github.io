@@ -53,6 +53,8 @@ options worth considering.
 <h4>Hungarian fellowships and opportunities</h4>
 - [Semmelweis University Directorate of Innovation](http://semmelweis.hu/innovacios-igazgatosag/)
 - [Stipendium Hungaricum PhD fellowship](http://studyinhungary.hu/study-in-hungary/menu/stipendium-hungaricum-scholarship-programme)
+- [Long and short term fellowships, travel grants and other opportunities for
+  PhD students at Semmelweis University](http://semmelweis.hu/phd/category/palyazatok/)
 - [MTA Prémium Postdoc fellowship](http://mta.hu/mta-premium-posztdoktori-kutatoi-program_762)
 - [Posztdoktori Kiválósági Program](http://nkfih.gov.hu/palyazoknak/posztdoktori-kivalosagi/posztdoktori-kivalosagi-180603)
 - [Bolyai János Kutatási Ösztöndíj](http://mta.hu/bolyai-osztondij)
