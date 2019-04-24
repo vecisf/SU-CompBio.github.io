@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "EPITRAN COST Network"
+title:  "Spring news and conferences"
 date:   2019-04-24 14:00:00 +0200
 categories: update
 ---
