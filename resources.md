@@ -57,6 +57,7 @@ computing resources and other interesting things.
 - [Hungarian Genetics Society - Division of RNA Regulation](http://magerns.shopngo.hu/)
 - [Hungarian Biochemical Society](http://www.mbkegy.hu/apps/mbkegy/pages/index.php)
 - [Hungarian Cancer Society](http://oncology.hu/index.php#)
+- [Hungarian Society of Hematology and Transfusion](http://www.mhtt.hu)
 - [Hungarian Society of Human Genetics](http://www.mhgt.hu/home.html)
 - [Association of Clinical Biostatistics](http://www.biostat.hu/)
 - [Hungarian ELIXIR node](http://www.elixir-hungary.org/)
