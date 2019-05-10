@@ -58,6 +58,9 @@ options worth considering.
 - [MTA Prémium Postdoc fellowship](http://mta.hu/mta-premium-posztdoktori-kutatoi-program_762)
 - [Posztdoktori Kiválósági Program](http://nkfih.gov.hu/palyazoknak/posztdoktori-kivalosagi/posztdoktori-kivalosagi-180603)
 - [Bolyai János Kutatási Ösztöndíj](http://mta.hu/bolyai-osztondij)
+- [CEEPUS Mobility Fellowship](http://www.ceepus.info/#nbb)
+- [Erasmus+ Mobility Fellowship](http://studyinhungary.hu/study-in-hungary/menu/scholarships/erasmus.html)
+- [ÚNKP ösztöndíjpályázatok](http://www.unkp.gov.hu/unkp-rol)
 
 <h4>International fellowships and opportunities</h4>
 - [Boehringer Ingelheim PhD fellowship](https://www.bifonds.de/fellowships-grants/phd-fellowships.html)
