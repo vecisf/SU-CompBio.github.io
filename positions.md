@@ -12,7 +12,7 @@ email with the following information. Application procedure for a specific
 position in the Group News section might be slightly different from the one
 described here.
 
-<h3>If you are an MSc student looking for a thesis/TDK topic</h3>
+<h3>If you are an BSc/MSc student looking for a thesis/TDK topic</h3>
 
 - Make sure that your university/department agrees doing your thesis with us.
 - Write an email with a short description of who you are, what would you like
@@ -45,10 +45,10 @@ described here.
 
 <h3>External funding opportunities</h3>
 
-These are some of the funding opportunities for PhD students and postdocs.
-Although the chances might be low for some of them, as we are a new group, you
-can always give it a try and we would be happy to help. There might be other
-options worth considering. 
+These are some of the funding opportunities for BSc, MSc and PhD students or
+postdocs.  Although the chances might be low for some of them, as we are a new
+group, you can always give it a try and we would be happy to help. There might
+be other options worth considering.
 
 <h4>Hungarian fellowships and opportunities</h4>
 - [Semmelweis University Directorate of Innovation](http://semmelweis.hu/innovacios-igazgatosag/)
