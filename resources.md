@@ -53,14 +53,15 @@ computing resources and other interesting things.
 <h3>Scientific societies in Hungary</h3>
 
 - [Hungarian Society for Bioinformatics](http://mabit.ttk.mta.hu/doc/en/home)
-- [Hungarian Genetics Society](http://www.magenegy.hu/hu/)
-- [Hungarian Genetics Society - Division of RNA Regulation](http://magerns.shopngo.hu/)
+- [Hungarian Genetics Society](https://mage1.shopngo.hu/)
+- [Hungarian Genetics Society - Division of RNA Regulation](https://mage1.shopngo.hu/rns-hirek_ac11)
 - [Hungarian Biochemical Society](http://www.mbkegy.hu/apps/mbkegy/pages/index.php)
 - [Hungarian Cancer Society](http://oncology.hu/index.php#)
 - [Hungarian Society of Hematology and Transfusion](http://www.mhtt.hu)
 - [Hungarian Society of Human Genetics](http://www.mhgt.hu/home.html)
 - [Association of Clinical Biostatistics](http://www.biostat.hu/)
 - [Hungarian ELIXIR node](http://www.elixir-hungary.org/)
+- [Hungarian Society of Pathologists](http://pathology.hu/en/page/mpt)
 
 <h3>Miscellanea</h3>
 
