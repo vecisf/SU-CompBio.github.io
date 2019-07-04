@@ -48,3 +48,7 @@ Economics](http://www.bme.hu/?language=en).  My current project is about panel
 sequencing and evaluating raw data, and the goal is to find patterns,
 similarities among the different samples, which were collected from hungarian
 patients with cancer.
+
+<h3>Alexa Szeifert</h3>
+I am a molecular bionics engineering student at [Pázmány Péter Catholic
+University](https://ppke.hu/en). I am working on statistical analysis of RNA modifications in cancer.
