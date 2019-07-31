@@ -48,7 +48,11 @@ University](https://ppke.hu/en). Before I joined the group I was working on the
 pathogenetic role of microRNAs in inflammatory diseases. Now, my project is 
 about the statistical analysis of RNA modifications in cancer.
 
+</br>
+</br>
 ------
+</br>
+</br>
 
 <h3>Alumni</h3>
 
