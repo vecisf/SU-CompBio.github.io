@@ -39,12 +39,14 @@ networks in cancer.
 I am a biochemical engineering student at [Budapest University of Technology and
 Economics](http://www.bme.hu/?language=en).  My current project is about panel
 sequencing and evaluating raw data, and the goal is to find patterns,
-similarities among the different samples, which were collected from hungarian
+similarities among the different samples, which were collected from Hungarian
 patients with cancer.
 
 <h3>Alexa Szeifert</h3>
 I am a molecular bionics engineering student at [Pázmány Péter Catholic
-University](https://ppke.hu/en). I am working on statistical analysis of RNA modifications in cancer.
+University](https://ppke.hu/en). Before I joined the group I was working on the 
+pathogenetic role of microRNAs in inflammatory diseases. Now, my project is 
+about the statistical analysis of RNA modifications in cancer.
 
 ------
 
