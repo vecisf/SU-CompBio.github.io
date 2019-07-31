@@ -35,13 +35,6 @@ from hospital water samples. I am currently working on the analysis of
 large-scale transcriptome datasets, splicing patterns and gene regulatory
 networks in cancer.
 
-<h3>Noam Makmal</h3>
-I am a medical student at [Semmelweis University](http://semmelweis.hu/english/).
-I'm working on the analysis of genome, transcriptome and ChIP-seq datasets to
-develop novel tools for characterizing variance in chromatin structure, link it
-to oncogene or tumor suppressor gene expression and ultimately to cancer
-development and clinical characteristics of patients.
-
 <h3>András Udvarvölgyi</h3>
 I am a biochemical engineering student at [Budapest University of Technology and
 Economics](http://www.bme.hu/?language=en).  My current project is about panel
@@ -52,3 +45,14 @@ patients with cancer.
 <h3>Alexa Szeifert</h3>
 I am a molecular bionics engineering student at [Pázmány Péter Catholic
 University](https://ppke.hu/en). I am working on statistical analysis of RNA modifications in cancer.
+
+------
+
+<h3>Alumni</h3>
+
+<h4>Noam Makmal</h4>
+I am a medical student at [Semmelweis University](http://semmelweis.hu/english/).
+I was working on the analysis of genome, transcriptome and ChIP-seq datasets to
+develop novel tools for characterizing variance in chromatin structure, link it
+to oncogene or tumor suppressor gene expression and ultimately to cancer
+development and clinical characteristics of patients.
