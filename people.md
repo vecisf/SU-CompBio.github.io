@@ -35,13 +35,6 @@ from hospital water samples. I am currently working on the analysis of
 large-scale transcriptome datasets, splicing patterns and gene regulatory
 networks in cancer.
 
-<h3>András Udvarvölgyi</h3>
-I am a biochemical engineering student at [Budapest University of Technology and
-Economics](http://www.bme.hu/?language=en).  My current project is about panel
-sequencing and evaluating raw data, and the goal is to find patterns,
-similarities among the different samples, which were collected from Hungarian
-patients with cancer.
-
 <h3>Alexa Szeifert</h3>
 I am a molecular bionics engineering student at [Pázmány Péter Catholic
 University](https://ppke.hu/en). Before I joined the group I was working on the 
@@ -62,3 +55,10 @@ I was working on the analysis of genome, transcriptome and ChIP-seq datasets to
 develop novel tools for characterizing variance in chromatin structure, link it
 to oncogene or tumor suppressor gene expression and ultimately to cancer
 development and clinical characteristics of patients.
+
+<h4>András Udvarvölgyi</h4>
+I am a biochemical engineering student at [Budapest University of Technology and
+Economics](http://www.bme.hu/?language=en).  My project was about panel
+sequencing and evaluating raw sequencing data. The goal was to find patterns and
+similarities among the different samples, which were collected from Hungarian
+patients with cancer.
