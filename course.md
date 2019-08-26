@@ -5,6 +5,8 @@ permalink: /course/
 exclude: true
 ---
 
+# General information
+
 Lecture outlines, recommended reading material and lessons for the PhD course at
 Semmelweis University, titled "Adatelemzés és programozás orvos biológusoknak
 I". The course is in hungarian, but these notes will be in english.
