@@ -5,7 +5,7 @@ permalink: /course/
 exclude: true
 ---
 
-# General information
+## General information
 
 Lecture outlines, recommended reading material and lessons for the PhD course at
 Semmelweis University, titled "Adatelemzés és programozás orvos biológusoknak
@@ -28,7 +28,7 @@ Some general remarks:
 - Grading and homeworks:
 - Contact:
 
-## Week 1: Introduction, software installation, overview of topics
+## Week 1: Introduction, software installation, overview
 ## Week 2
 ## Week 3
 ## Week 4
