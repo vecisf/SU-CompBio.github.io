@@ -12,7 +12,7 @@ course at Semmelweis University, titled "Adatelemzés és programozás orvos
 biológusoknak I". This semester, the course will be in hungarian, but these
 notes are in english.
 
-The course build heavily on the [Carpentries
+The course builds heavily on the [Carpentries
 Foundation](https://carpentries.org/) material and teaching philosophy. It is
 intended for beginners, with no or very little programming knowledge.
 
@@ -52,9 +52,9 @@ Delivery plan:
 
 - Explain content of course
 - Explain Code of Conduct
-- Name labels
+- Explain name labels
 - Explain stickies and feedback
-- Homeworks
+- Homeworks and grading
 - Short introduction from everybody
 - R and RStudio download and setup
 - Getting started with R and RStudio
