@@ -48,6 +48,8 @@ if you have any questions or comments.
 
 *Introduction, software installation, getting around in R and RStudio.*
 
+[Presentation]({{ site.url }}/assets/phd_course/eloadas_2019-09-04.pdf)
+
 Delivery plan:
 
 - Explain content of course
