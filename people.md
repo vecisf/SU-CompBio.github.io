@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: People
 permalink: /people/
@@ -40,6 +40,15 @@ I am a molecular bionics engineering student at [Pázmány Péter Catholic
 University](https://ppke.hu/en). Before I joined the group I was working on the 
 pathogenetic role of microRNAs in inflammatory diseases. Now, my project is 
 about the statistical analysis of RNA modifications in cancer.
+
+<h3>Gábor Bedics</h3>
+I introduce myself as a PhD student at the Semmelweis University, Doctoral School of Pathology. 
+My work is divided to two groups: the Hungarian Academy of Sciences - Semmelweis University 
+Molecular Oncohematology Research Group with the supervision of Dr. Donát Alpár, and between the 
+Semmelweis University Computational Biology Group with the supervision of Dr. Endre Sebestyén. 
+The field of research I work on is the genetic sequencing of pediatric acute lymphoblastic leukemia (ALL) 
+and the bioinformatical analysis of theese data in order to identify mutations and give the opportunity 
+for personalised therapy for theese patients. I graduated as a Medical Doctor in 2019 at the University of Pécs. 
 
 <br />
 <br />
