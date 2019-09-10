@@ -2,7 +2,6 @@
 layout: page
 title: PhD Course
 permalink: /course/
-exclude: true
 ---
 
 ## General information
@@ -16,9 +15,9 @@ The course builds heavily on the [Carpentries
 Foundation](https://carpentries.org/) material and teaching philosophy. It is
 intended for beginners, with no or very little programming knowledge.
 
-**Location**: Histology Seminar Room (ground floor), Semmelweis University, 1st
-Department of Pathology and Experimental Cancer Research, H-1085 Budapest, Üllői
-út 26.
+**Location**: Histology Seminar Room (ground floor), Semmelweis University,
+1<sup>st</sup> Department of Pathology and Experimental Cancer Research, H-1085
+Budapest, Üllői út 26.
 
 **Time**: every Wednesday, from 16:30 to 18:00, starting with the 4<sup>th</sup>
 of September.
@@ -116,6 +115,75 @@ section.
 ## Week 2 - 11<sup>th</sup> of September - Endre Sebestyén
 
 *Data organization and cleanup, structuring projects, tidy data*
+
+Delivery plan:
+
+- Recap of basic organizational stuff for newcomers
+- Short introduction from everybody
+- Checking R, RStudio, LibreOffice/Excel setup
+- Discussing data organization in spreadsheets
+- Recommended readings
+- Homework explanation
+
+### Data organization in spreadsheets
+
+Before diving into the details of R and RStudio, we will discuss data
+organization in spreadsheets. Most researchers use spreadsheets to collect data,
+and this is the start of every analysis. However, computers need data to be
+organized in a particular way. They can't recognize typos, colored excel lines
+and other things that are easy to interpret and/or correct by humans.
+
+We will use the Data Carpentry lesson titled [Data Organization in Spreadsheets
+for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/) to learn
+about these things.
+
+- [Introduction](https://datacarpentry.org/spreadsheet-ecology-lesson/00-intro/index.html) and
+  [data formatting](https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html)
+- [Common formatting problems](https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html)
+- [Dates as data](https://datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/index.html)
+- [Quality control](https://datacarpentry.org/spreadsheet-ecology-lesson/04-quality-control/index.html)
+- [Exporting data](https://datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data/index.html)
+
+You will need some kind of spreadsheet software for this, like Microsoft Excel
+or LibreOffice. To setup LibreOffice, check the details
+[here](https://datacarpentry.org/spreadsheet-ecology-lesson//setup.html).
+
+### Recommended readings
+
+These are some of the papers that describe basic data organization principles,
+how to manage projects, etc.
+
+- Tidy Data [10.18637/jss.v059.i10](http://dx.doi.org/10.18637/jss.v059.i10):
+  how to organize your data in a clean, easy to handle way.
+- A quick guide to organizing computational biology projects
+  [10.1371/journal.pcbi.1000424](http://dx.doi.org/10.1371/journal.pcbi.1000424):
+  how to organize any project, not just computational biology projects. Anyway,
+  [all biology is computational
+  biology](http://dx.doi.org/10.1371/journal.pbio.2002050), right?
+- Good enough practices in scientific computing
+  [10.1371/journal.pcbi.1005510](http://dx.doi.org/10.1371/journal.pcbi.1005510):
+  a set of good computing practices, that every researcher can adopt, regardless
+  of current level of computational skills.
+- Best Practices for Scientific Computing
+  [10.1371/journal.pbio.1001745](http://dx.doi.org/10.1371/journal.pbio.1001745):
+  a more detailed explanation on how to organize stuff, write code, plan your
+  project, collaborate and so on.
+
+### Homework
+
+Think about what we learned today about organizing data in spreadsheets, tidy
+data and your own project, datasets and analysis plans. Keeping all of this in
+mind, *create a single spreadsheet* showing how you would organize your
+experimental data. Add columns as needed, and include a few rows with example
+data. You can also add some explanations or comments in the table.
+
+What kind of data will you collect? Clinical information, gene expression
+values, genetic information, something else? Is it categorical or continuous?
+How many observations, patients or experiments are you planning? Are you
+planning to do multiple measurements on the same sample? Is it important to
+record experimental setup, machine parameters? What happens if you have missing
+data, for example no clinical information, or the experiment failed for a
+certain sample?
 
 ## Week 3 - 18<sup>th</sup> of September - Endre Sebestyén
 
