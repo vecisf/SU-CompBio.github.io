@@ -137,6 +137,9 @@ We will use the Data Carpentry lesson titled [Data Organization in Spreadsheets
 for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/) to learn
 about these things.
 
+- [Setup](https://datacarpentry.org/spreadsheet-ecology-lesson//setup.html) for
+  data download that we will use for this lesson, and software installation
+  instructions, if you don't have spreadsheet software installed.
 - [Introduction](https://datacarpentry.org/spreadsheet-ecology-lesson/00-intro/index.html) and
   [data formatting](https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html)
 - [Common formatting problems](https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/index.html)
