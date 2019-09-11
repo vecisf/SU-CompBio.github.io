@@ -38,7 +38,7 @@ learn and try things out. Active participation, discussing issues and asking
 questions is much more important, than submitting perfectly written programming
 exercises.
 
-**Contact**: send and email to sebestyen.endre at med dot semmelweis-univ dot hu
+**Contact**: send an email to sebestyen.endre at med dot semmelweis-univ dot hu
 if you have any questions or comments.
 
 **Teachers**: Endre Sebestyén, Bence Szalai, Gábor Turu, Miklós Cserző
@@ -173,6 +173,9 @@ how to manage projects, etc.
   [10.1371/journal.pbio.1001745](http://dx.doi.org/10.1371/journal.pbio.1001745):
   a more detailed explanation on how to organize stuff, write code, plan your
   project, collaborate and so on.
+- Gene name errors are widespread in the scientific literature
+  [10.1186/s13059-016-1044-7](http://dx.doi.org/10.1186/s13059-016-1044-7): a
+  tale about gene names, dates and Excel.
 
 ### Homework
 
