@@ -116,6 +116,8 @@ section.
 
 *Data organization and cleanup, structuring projects, tidy data*
 
+[Presentation]({{ site.url }}/assets/phd_course/eloadas_2019-09-11.pdf)
+
 Delivery plan:
 
 - Recap of basic organizational stuff for newcomers
