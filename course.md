@@ -112,6 +112,12 @@ lessons. Take a look at the main page and the [Before we
 start](https://datacarpentry.org/R-ecology-lesson/00-before-we-start.html)
 section.
 
+### Notes
+
+The `??` for getting help in RStudio did not seem to work. Turns out, there is
+probably a bug in the current version, as discussed at
+[stackoverflow](https://stackoverflow.com/questions/57623417/double-question-mark-help-search-not-working-in-rstudio-and-rstudio-only).
+
 ## Week 2 - 11<sup>th</sup> of September - Endre Sebestyén
 
 *Data organization and cleanup, structuring projects, tidy data*
@@ -173,6 +179,10 @@ how to manage projects, etc.
   [10.1371/journal.pbio.1001745](http://dx.doi.org/10.1371/journal.pbio.1001745):
   a more detailed explanation on how to organize stuff, write code, plan your
   project, collaborate and so on.
+- Nine simple ways to make it easier to (re)use your data
+  [10.7287/peerj.preprints.7v2](https://doi.org/10.7287/peerj.preprints.7v2).
+  Another set of recommendations on how to make data understandable and
+  reusable.
 - Gene name errors are widespread in the scientific literature
   [10.1186/s13059-016-1044-7](http://dx.doi.org/10.1186/s13059-016-1044-7): a
   tale about gene names, dates and Excel.
@@ -196,6 +206,12 @@ planning to do multiple measurements on the same sample? Is it important to
 record experimental setup, machine parameters? What happens if you have missing
 data, for example no clinical information, or the experiment failed for a
 certain sample?
+
+### Notes
+
+It's ÉV, HÓNAP and NAP (as in hungarian) for the YEAR, MONTH and DAY functions
+of Excel, in the hungarian version. One more reason not to use Excel for
+anything.
 
 ## Week 3 - 18<sup>th</sup> of September - Endre Sebestyén
 
