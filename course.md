@@ -190,7 +190,7 @@ how to manage projects, etc.
 ### Homework
 
 *Send an email from the address you would like to use for getting the
-homework submission link.* Homework deadline is 23:00, 15<sup>th</sup> of
+homework submission link.* Homework deadline is 24:00, 15<sup>th</sup> of
 September. We will discuss them next week.
 
 Think about what we learned today about organizing data in spreadsheets, tidy
