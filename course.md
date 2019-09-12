@@ -239,7 +239,7 @@ anything.
 
 *Recap of R and RStudio, Q & A session*
 
-## Week 9 - 6<sup>th</sup> of November - Gábor Turu
+## Week 9 - 6<sup>th</sup> of November - Miklós Cserző
 
 *Command line I: file system, creating, deleting, editing and looking at files*
 
@@ -259,6 +259,6 @@ anything.
 
 *Intro to python II: variable types*
 
-## Week 14 - 11<sup>th</sup> of December - Bence Szalai
+## Week 14 - 11<sup>th</sup> of December - Gábor Turu
 
 *Intro to python III: conditional statements, loops, functions*
