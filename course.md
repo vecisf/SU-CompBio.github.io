@@ -217,6 +217,50 @@ anything.
 
 *Intro to R I: variables, vectors, lists, functions*
 
+Delivery plan:
+
+- Recap of data organization
+- Short summary of homeworks
+- Discussing homework example data in groups
+- Intro to R
+- Recommended readings
+- Homework explanation
+
+### Intro to R
+
+During this lesson we will learn what is an R object, variable, function, etc, how to
+assign values to objects, comment things, use functions and manipulate vectors.
+We will also take a short look at lists.
+
+Again, we will use the Data Carpentry lesson titled [Data Organization in Spreadsheets
+for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
+
+- [Introduction to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
+  up to the Vectors and data types challenge.
+
+### Recommended readings
+
+- [Advanced R - Style guide](http://adv-r.had.co.nz/Style.html): how to format
+  your code. This seems to be an unimportant and trivial thing, but will make
+  your work more user friendly, reusable, and easier to understand. Also think
+  of your future self, who will need to understand the old analysis, 10 months
+  from now.
+- [Advanced R - Vocabulary](http://adv-r.had.co.nz/Vocabulary.html): an extended
+  list of useful functions. No need to go through everything right now, as you
+  just started learning R, but it will come handy later.
+- [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/): an
+  alternative introduction to R.
+
+### Homework
+
+Take a look around in R, pick your favorite functions, like the mean, sd,
+median, mad, sum or others. Open your spreadsheet from homework 1, select a
+group of measurements, define it as a vector in R, and get the result of the
+various functions. Define at least 2 different vectors with different data, and
+use at least 3 functions. Save your code in a file, add comments to explain what
+you did and also add the output (or the error messages) of the functions as
+comments.
+
 ## Week 4 - 25<sup>th</sup> of September - Endre Sebestyén
 
 *Intro to R II: subsetting and missing data*
