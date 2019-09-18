@@ -253,6 +253,8 @@ for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
 
 ### Homework
 
+Homework deadline is 24:00, 22<sup>nd</sup> of September. We will discuss them next week.
+
 Take a look around in R, pick some functions, like the `mean`, `sd`, `max`,
 `sum` or others. Open your spreadsheet from homework 1, select a group of
 measurements, define it as a vector in R, and get the result of the various
