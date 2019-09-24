@@ -222,11 +222,11 @@ Delivery plan:
 - Recap of data organization
 - Short summary of homeworks
 - Discussing homework example data in groups
-- Intro to R
+- Intro to R I.
 - Recommended readings
 - Homework explanation
 
-### Intro to R
+### Intro to R I.
 
 During this lesson we will learn what is an R object, variable, function, etc, how to
 assign values to objects, comment things, use functions and manipulate vectors.
@@ -268,6 +268,39 @@ syntax.
 ## Week 4 - 25<sup>th</sup> of September - Endre Sebestyén
 
 *Intro to R II: subsetting and missing data*
+
+Delivery plan:
+
+- Recap of R vectors and functions
+- Short intro to lists
+- Short summary of homeworks
+- Homework discussion in groups
+- Intro to R II.
+- Recommended readings
+- Feedback
+- Homework explanation
+
+### Intro to R II.
+
+During the lesson we will discuss subsetting vectors in different ways and
+dealing with missing data in vectors.
+
+We will use the Data Carpentry lesson [Data Organization in Spreadsheets
+for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
+
+- [Introduction to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
+  until the end, starting from the Subsetting vectors section.
+
+### Recommended readings
+
+- [Advanced R - Subsetting](http://adv-r.had.co.nz/Subsetting.html): Everything
+  you wanted to know about vector subsetting and much more.
+- [CRAN Task View: Missing
+  Data](https://cran.r-project.org/web/views/MissingData.html): Dealing with,
+  exploring and imputing missing data. We will discuss CRAN in more detail
+  later.
+
+### Homework
 
 ## Week 5 - 2<sup>nd</sup> of October - Endre Sebestyén
 
