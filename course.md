@@ -302,6 +302,14 @@ for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
 
 ### Homework
 
+Homework deadline is 24:00, 2<sup>nd</sup> of October. We will discuss them next week.
+
+Open your script from the previous week, improve it as discussed (if needed),
+and define a new vector with experimental measurements. However, include missing
+data in the new vector. Go over your previous functions that you used in the
+script, determine how to deal with missing values, and calculate all previous
+results for this new vector as well. Send the improved analysis script.
+
 ## Week 5 - 2<sup>nd</sup> of October - Endre Sebestyén
 
 *Intro to R III: reading in and writing out data, factors, data frames*
