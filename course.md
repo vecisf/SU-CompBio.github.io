@@ -302,7 +302,7 @@ for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
 
 ### Homework
 
-Homework deadline is 24:00, 2<sup>nd</sup> of October. We will discuss them next week.
+Homework deadline is 24:00, 29<sup>th</sup> of September. We will discuss them next week.
 
 Open your script from the previous week, improve it as discussed (if needed),
 and define a new vector with experimental measurements. However, include missing
