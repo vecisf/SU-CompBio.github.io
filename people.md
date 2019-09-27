@@ -27,13 +27,14 @@ changing in different pathologic conditions.
 
 <h3>Péter Szikora</h3>
 
-I am a master student in Medical Biotechnology at [Pázmány Péter Catholic
-University](https://ppke.hu/en), focusing on molecular oncology and genomics.
-Before that I completed my professional practice in the National Institute of
+I am finishing as a master student in Medical Biotechnology at [Pázmány Péter Catholic
+University](https://itk.ppke.hu/en), focusing on molecular oncology and genomics.
+Before that, I completed my professional practice at the National Institute of
 Environmental Health, working on the molecular analysis of pathogenic bacteria
-from hospital water samples. I am currently working on the analysis of
-large-scale transcriptome datasets, splicing patterns and gene regulatory
-networks in cancer.
+from hospital water samples. I am currently developing a bioinformatic workflow
+and working on the analysis of large-scale transcriptome datasets, splicing patterns
+and gene regulatory networks in cancer. Also I am working as a biological data analyst
+at the company [Turbine](https://turbine.ai/).
 
 <h3>Alexa Szeifert</h3>
 I am a molecular bionics engineering student at [Pázmány Péter Catholic
