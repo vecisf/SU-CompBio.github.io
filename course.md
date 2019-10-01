@@ -314,6 +314,36 @@ results for this new vector as well. Send the improved analysis script.
 
 *Intro to R III: reading in and writing out data, factors, data frames*
 
+Delivery plan:
+
+- Recap of R subsetting and missing values
+- Short summary of homeworks
+- Homework discussion in groups
+- Intro to R III.
+- Recommended readings
+- Homework explanation
+
+### Intro to R III.
+
+During the lesson we will discuss how to import data into R from external
+sources, what a data.frame is, and how to use factors.
+
+We will use the Data Carpentry lesson [Data Analysis and Visualization in R
+for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
+
+- [Starting with data](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
+  until the Formatting Dates part.
+
+### Recommended readings
+
+- Importing data files with the readr package, from the [R for Data
+  Science](https://r4ds.had.co.nz/data-import.html) book.
+- R documentation on [data import/export](https://cran.r-project.org/doc/manuals/r-release/R-data.html).
+- The [rio package](https://github.com/leeper/rio) for importing/exporting a
+  huge range of data formats.
+
+### Homework
+
 ## Week 6 - 9<sup>th</sup> of October - Endre Sebestyén
 
 *Intro to R IV: CRAN and Bioconductor, using dplyr*
