@@ -232,8 +232,8 @@ During this lesson we will learn what is an R object, variable, function, etc, h
 assign values to objects, comment things, use functions and manipulate vectors.
 We will also take a short look at lists.
 
-Again, we will use the Data Carpentry lesson titled [Data Organization in Spreadsheets
-for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
+We will use the Data Carpentry lesson titled [Data Analysis and Visualization in
+R for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
 
 - [Introduction to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
   up to the Vectors and data types challenge.
@@ -285,8 +285,8 @@ Delivery plan:
 During the lesson we will discuss subsetting vectors in different ways and
 dealing with missing data in vectors.
 
-We will use the Data Carpentry lesson [Data Organization in Spreadsheets
-for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
+We will use the Data Carpentry lesson [Data Analysis and Visualization in R
+for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
 
 - [Introduction to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
   until the end, starting from the Subsetting vectors section.
