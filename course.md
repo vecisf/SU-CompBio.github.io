@@ -344,6 +344,14 @@ for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
 
 ### Homework
 
+Homework deadline is 24:00, 6<sup>th</sup> of October. We will discuss them next week.
+
+Take your final excel dataset from the first lessons, export it as a csv file,
+and read it into R with the function(s) discussed today. Run the `head`, `tail`,
+`summary`, `nrow`, `ncol` and `str` functions on it. Save the code and the
+results as an R script and send it. Write down possible errors, formatting
+problems, and their possible sources so we can discuss them next week.
+
 ## Week 6 - 9<sup>th</sup> of October - Endre Sebestyén
 
 *Intro to R IV: CRAN and Bioconductor, using dplyr*
