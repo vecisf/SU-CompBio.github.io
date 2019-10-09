@@ -356,6 +356,41 @@ problems, and their possible sources so we can discuss them next week.
 
 *Intro to R IV: CRAN and Bioconductor, using dplyr*
 
+Delivery plan:
+
+- Recap of R factors, data.frames, and functions used
+- Short summary of homeworks
+- Short discussion of stringsAsFactors
+- Homework discussion in groups
+- Short intro to CRAN and Bioconductor
+- Intro to R IV.
+- Recommended readings
+- Homework explanation
+
+### Intro to R IV.
+
+During the lesson we will learn how to manipulate and analyze data with the
+dplyr package, learn about long and wide data formats, and use the
+split-apply-combine concept for analysis.
+
+We will use the Data Carpentry lesson [Data Analysis and Visualization in R
+for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
+
+- [Manipulating data](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html),
+  where we might skip the *Reshaping with gather and spread* part, considering 
+  progress and questions.
+
+### Recommended readings
+
+- [Bioconductor: open software development for computational biology and
+  bioinformatics](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-10-r80)
+- [Managing, installing, updating CRAN
+  packages](https://cran.r-project.org/doc/manuals/r-release/R-admin.html#Add_002don-packages)
+- Might want to refresh your ideas about tidy data
+  [10.18637/jss.v059.i10](http://dx.doi.org/10.18637/jss.v059.i10).
+
+### Homework
+
 ## Week 7 - 16<sup>th</sup> of October - Endre Sebestyén
 
 *R graphics: data visualization with ggplot2, R Markdown*
