@@ -391,6 +391,19 @@ for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
 
 ### Homework
 
+Homework deadline is 24:00, 13<sup>th</sup> of October. We will discuss them next week.
+
+Take your csv file from last time (or a similar dataset from a paper or public
+repository if you are getting bored with it), and read it into R with the
+`tidyverse` based functiondiscussed today. Run the `head`, `tail`, and `str`
+functions on it. Select and filter a specific subset with `select` and `filter`,
+create a few new columns with `mutate`, group them according to your
+experimental design with `group_by` (perhaps using mutation status, treatment,
+or similar grouping), and calculate some informative statistics, like `mean`,
+`median`, `min`, `max`, etc using `summarize`.  Save the code and the results as
+an R script and send it. Write down possible errors, formatting problems, and
+their possible sources so we can discuss them next week.
+
 ## Week 7 - 16<sup>th</sup> of October - Endre Sebestyén
 
 *R graphics: data visualization with ggplot2, R Markdown*
