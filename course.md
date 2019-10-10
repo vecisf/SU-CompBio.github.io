@@ -404,6 +404,11 @@ or similar grouping), and calculate some informative statistics, like `mean`,
 an R script and send it. Write down possible errors, formatting problems, and
 their possible sources so we can discuss them next week.
 
+Please keep in mind what we discussed about formatting your code, adding
+comments, adding the output of functions as comments, and NOT adding the `>`
+character at the start of lines in a script. It might be useful checking out the
+[tidyverse style guide](https://style.tidyverse.org/).
+
 ## Week 7 - 16<sup>th</sup> of October - Endre Sebestyén
 
 *R graphics: data visualization with ggplot2, R Markdown*
