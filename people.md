@@ -54,6 +54,17 @@ order to identify mutations and give the opportunity for personalised therapy
 for theese patients. I graduated as a Medical Doctor in 2019 at the University
 of Pécs.
 
+<h3>Veronika Vraukó</h3>
+I am graduated in Molecular bionics engineering ((University of Szeged))[http://sci.u-szeged.hu/english] 
+and have a master's degree in Medical biotechnology (Pázmány Péter Catholic University).
+I gained more than 2 years of laboratory experience in several fields of research, 
+including neurobiology, microbiology and molecular genetics as well. Now I am 
+a PhD student at the Semmelweis University, (Doctoral School of Pathology)[http://semmelweis.hu/phd/en/], 
+1st Department of Pathology and Experimental Cancer Research. My theme is about 
+transcriptional adaptation and minimal regulatory networks in cancer. 
+
+[LinkedIn](https://www.linkedin.com/in/veronika-vrauko/)
+
 <br />
 <br />
 ------
