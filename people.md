@@ -49,7 +49,7 @@ Sciences - Semmelweis University Molecular Oncohematology Research Group with
 the supervision of Dr. Donát Alpár, and between the Semmelweis University
 Computational Biology Group with the supervision of Dr. Endre Sebestyén. The
 field of research I work on is the genetic sequencing of pediatric acute
-lymphoblastic leukemia (ALL) and the bioinformatical analysis of theese data in
+lymphoblastic leukemia (ALL) and the bioinformatical analysis of these data in
 order to identify mutations and give the opportunity for personalised therapy
 for these patients. I graduated as a Medical Doctor in 2019 at the University
 of Pécs.
