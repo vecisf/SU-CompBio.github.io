@@ -439,7 +439,8 @@ for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
 - [Chapter 3 - Data Wrangling](https://moderndive.com/3-wrangling.html) from the
   book Statistical Inference via Data Science: A ModernDive into R and the
   tidyverse by Chester Ismay and Albert Y. Kim.
-- Check out the [R for Data Science](https://r4ds.had.co.nz/) book.
+- Check out the full [R for Data Science](https://r4ds.had.co.nz/) book, if you
+  haven't done it yet.
 
 ### Homework
 
