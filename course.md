@@ -411,15 +411,42 @@ character at the start of lines in a script. It might be useful checking out the
 
 ## Week 7 - 16<sup>th</sup> of October - Endre Sebestyén
 
-*R graphics: data visualization with ggplot2, R Markdown*
+*Intro to R V: using dplyr and the split-apply-combine data analysis strategy*
+
+Delivery plan:
+
+- Recap of dplyr
+- Short summary of homeworks
+- Intro to R V.
+- Recommended readings
+- Homework explanation
+
+### Intro to R V.
+
+During the lesson we will continue with the dplyr package, learn about long and
+wide data formats using the gather and spread functions, and use the
+split-apply-combine concept and the summarize and group\_by functions for
+analysis. We will also export the results with the write\_csv function.
+
+We will use the Data Carpentry lesson [Data Analysis and Visualization in R
+for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
+
+- [Manipulating data](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html)
+  lesson until the end.
+
+### Recommended readings
+
+### Homework
 
 ## Week 8 - 30<sup>th</sup> of October - Endre Sebestyén
 
-*The Linux/UNIX operating systems and the command line*
+*R graphics: data visualization with ggplot2*
 
 *Recap of R and RStudio, Q & A session*
 
 ## Week 9 - 6<sup>th</sup> of November - Miklós Cserző
+
+*The Linux/UNIX operating systems and the command line*
 
 *Command line I: file system, creating, deleting, editing and looking at files*
 
