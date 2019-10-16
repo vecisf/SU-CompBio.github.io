@@ -416,6 +416,7 @@ character at the start of lines in a script. It might be useful checking out the
 Delivery plan:
 
 - Recap of dplyr
+- Recap of structuring projects
 - Short summary of homeworks
 - Intro to R V.
 - Recommended readings
