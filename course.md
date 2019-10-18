@@ -445,6 +445,21 @@ for Ecologists](https://datacarpentry.org/R-ecology-lesson/).
 
 ### Homework
 
+Homework deadline is 24:00, 20<sup>th</sup> of October. We will discuss them next time.
+
+Please check out the [last
+challenge](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html#challenge18)
+from the [Manipulating
+data](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html) lesson, write
+down your solutions as an R script, export the result tables, after taking a
+look at the [Exporting
+data](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html#exporting_data)
+section, and send the R script with the exported tables.  Write a *fully
+reproducible* script, including data download, import, manipulating the data as
+needed, and export. Don't forget about the `library` function at the start,
+and what we discussed about comments, the length of lines, or stray `>` and `+`
+characters at the start of lines.
+
 ## Week 8 - 30<sup>th</sup> of October - Endre Sebestyén
 
 *R graphics: data visualization with ggplot2*
