@@ -490,7 +490,7 @@ complex plots.
 
 ### Homework
 
-Homework deadline is 24:00, 20<sup>th</sup> of October. We will discuss them next time.
+Homework deadline is 24:00, 3<sup>rd</sup> of November. We will discuss them next time.
 
 ## Week 9 - 6<sup>th</sup> of November - Miklós Cserző
 
