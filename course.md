@@ -466,6 +466,32 @@ characters at the start of lines.
 
 *Recap of R and RStudio, Q & A session*
 
+Delivery plan:
+
+- Recap of R until now
+- R graphics: data visualization with ggplot2
+- Q & A
+- Recommended readings
+- Homework explanation
+
+### R graphics
+
+We will use the Data Carpentry lesson [Data Analysis and Visualization in R
+for Ecologists](https://datacarpentry.org/R-ecology-lesson/) to learn about the
+basics of the ggplot2 package, produce different types of simple and more
+complex plots.
+
+- [Data visualization with ggplot2](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html).
+
+### Recommended readings
+
+- [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+
+### Homework
+
+Homework deadline is 24:00, 20<sup>th</sup> of October. We will discuss them next time.
+
 ## Week 9 - 6<sup>th</sup> of November - Miklós Cserző
 
 *The Linux/UNIX operating systems and the command line*
