@@ -490,7 +490,13 @@ complex plots.
 
 ### Homework
 
-Homework deadline is 24:00, 3<sup>rd</sup> of November. We will discuss them next time.
+Homework deadline is 24:00, 3<sup>rd</sup> of November. We will discuss them later.
+
+Import your real or made-up experimental data that you worked on during previous
+homeworks, and create a plot using the `ggplot2` package. Send the R script and
+the final plot. Take a look at [this
+example](https://gist.github.com/esebesty/e7b15e66f3b1e6ce7ba992f0f3dfff6d)
+before sending the script.
 
 ## Week 9 - 6<sup>th</sup> of November - Miklós Cserző
 
