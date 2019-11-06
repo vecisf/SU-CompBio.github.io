@@ -504,6 +504,35 @@ before sending the script.
 
 *Command line I: file system, creating, deleting, editing and looking at files*
 
+Delivery plan
+
+- The Linux operating system
+- Linux command line I
+- Recommended readings
+- Homework explanation
+
+### Linux and the command line
+
+We will use the Software Carpentry lesson [The Unix
+Shell](http://swcarpentry.github.io/shell-novice/) to learn about automating
+repetitive tasks, combine existing tools and so on. This will be very useful in
+high-performance computing environments.
+
+- [The Unix Shell](http://swcarpentry.github.io/shell-novice/) until the end of
+  [Pipes and
+  Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html)
+  part.
+
+### Recommended readings
+
+- Right now we are using a Windows based command line, but on the long term, you
+  will most likely run into UNIX/Linux systems, like
+  [Ubuntu](https://ubuntu.com/)
+- Check out the [Linux man pages](https://linux.die.net/man/)
+- [The Linux command line for beginners](https://tutorials.ubuntu.com/tutorial/command-line-for-beginners#0)
+
+### Homework
+
 ## Week 10 - 13<sup>th</sup> of November - Endre Sebestyén
 
 *Command line II: manipulating, filtering, rearranging files, shell scripts*
