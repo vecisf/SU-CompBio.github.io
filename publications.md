@@ -5,6 +5,8 @@ permalink: /publications/
 order: 4
 ---
 
+<h4>Current work</h4>
+
 - **E. Sebestyén**, F. Marullo, F. Lucini, A. Bianchi, C. Petrini, S. Valsoni,
   I. Olivieri, L. Antonelli, F. Gregoretti, G. Oliva, F. Ferrari, C. Lanzuolo
   (2019) Early Polycomb-target deregulation in Hutchinson-Gilford Progeria
