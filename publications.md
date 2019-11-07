@@ -5,6 +5,12 @@ permalink: /publications/
 order: 4
 ---
 
+- **E. Sebestyén**, F. Marullo, F. Lucini, A. Bianchi, C. Petrini, S. Valsoni,
+  I. Olivieri, L. Antonelli, F. Gregoretti, G. Oliva, F. Ferrari, C. Lanzuolo
+  (2019) Early Polycomb-target deregulation in Hutchinson-Gilford Progeria
+  Syndrome revealed by heterochromatin analysis. bioRxiv,
+  [doi:10.1101/799668](http://dx.doi.org/10.1101/799668)
+
 <h4>The past</h4>
 
 - C. Bruckmann, **E. Sebestyén** (2017) Ten simple rules to initiate and run a
