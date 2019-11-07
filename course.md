@@ -533,6 +533,8 @@ high-performance computing environments.
 
 ### Homework
 
+Practice the material using the Software Carpentry lesson on the Unix shell.
+
 ## Week 10 - 13<sup>th</sup> of November - Endre Sebestyén
 
 *Command line II: manipulating, filtering, rearranging files, shell scripts*
