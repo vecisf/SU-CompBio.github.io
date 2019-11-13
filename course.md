@@ -539,6 +539,25 @@ Practice the material using the Software Carpentry lesson on the Unix shell.
 
 *Command line II: manipulating, filtering, rearranging files, shell scripts*
 
+Delivery plan
+
+- Recap of previous week
+- Linux command line II
+- Recommended readings
+- Homework explanation
+
+### Linux and the command line
+
+We will continue using the Software Carpentry lesson [The Unix
+Shell](http://swcarpentry.github.io/shell-novice/) to learn about automating
+repetitive tasks, combine existing tools and so on.
+
+### Recommended readings
+
+- Same as last week.
+
+### Homework
+
 ## Week 11 - 20<sup>th</sup> of November - Endre Sebestyén
 
 *Version control: git and github*
