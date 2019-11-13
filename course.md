@@ -552,6 +552,8 @@ We will continue using the Software Carpentry lesson [The Unix
 Shell](http://swcarpentry.github.io/shell-novice/) to learn about automating
 repetitive tasks, combine existing tools and so on.
 
+- [The Unix Shell](http://swcarpentry.github.io/shell-novice/) until the end.
+
 ### Recommended readings
 
 - Same as last week.
