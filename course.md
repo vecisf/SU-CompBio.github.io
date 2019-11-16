@@ -519,9 +519,7 @@ repetitive tasks, combine existing tools and so on. This will be very useful in
 high-performance computing environments.
 
 - [The Unix Shell](http://swcarpentry.github.io/shell-novice/) until the end of
-  [Pipes and
-  Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html)
-  part.
+  [Working With Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/index.html).
 
 ### Recommended readings
 
@@ -537,7 +535,7 @@ Practice the material using the Software Carpentry lesson on the Unix shell.
 
 ## Week 10 - 13<sup>th</sup> of November - Endre Sebestyén
 
-*Command line II: manipulating, filtering, rearranging files, shell scripts*
+*Command line II: manipulating, filtering, rearranging files*
 
 Delivery plan
 
@@ -552,13 +550,22 @@ We will continue using the Software Carpentry lesson [The Unix
 Shell](http://swcarpentry.github.io/shell-novice/) to learn about automating
 repetitive tasks, combine existing tools and so on.
 
-- [The Unix Shell](http://swcarpentry.github.io/shell-novice/) until the end.
+- [The Unix Shell](http://swcarpentry.github.io/shell-novice/) until the end of
+  [Pipes and
+  Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html).
 
 ### Recommended readings
 
 - Same as last week.
 
 ### Homework
+
+Homework deadline is 24:00, 18<sup>th</sup> of November. We will discuss them
+next time.
+
+Save the Pipe Construction exercise solution to a file, using nano and include
+some explanation using comments (`#`). Include *all* necessary commands, after
+opening Git Bash!
 
 ## Week 11 - 20<sup>th</sup> of November - Endre Sebestyén
 
