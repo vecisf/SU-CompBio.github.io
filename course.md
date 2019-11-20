@@ -569,7 +569,34 @@ opening Git Bash!
 
 ## Week 11 - 20<sup>th</sup> of November - Endre Sebestyén
 
-*Version control: git and github*
+*Command line III: manipulating, filtering, rearranging files*
+
+Delivery plan
+
+- Recap of previous week
+- Linux command line III
+- Recommended readings
+- Homework explanation
+
+### Linux and the command line
+
+We will continue using the Software Carpentry lesson [The Unix
+Shell](http://swcarpentry.github.io/shell-novice/) to learn about automating
+repetitive tasks, combine existing tools and so on.
+
+- [The Unix Shell](http://swcarpentry.github.io/shell-novice/) until the end of
+  [Shell Scripts](http://swcarpentry.github.io/shell-novice/06-script/index.html).
+
+### Recommended readings
+
+- Same as last week.
+
+### Homework
+
+Homework deadline is 24:00, 24<sup>th</sup> of November. We will discuss them
+next time.
+
+Polish and change your script from last week as discussed!
 
 ## Week 12 - 27<sup>th</sup> of November - Bence Szalai
 
