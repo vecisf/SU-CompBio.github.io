@@ -8,7 +8,7 @@ permalink: /course/
 
 Lecture outlines, recommended reading material and other information for the PhD
 course at Semmelweis University, titled "Adatelemzés és programozás orvos
-biológusoknak I". This semester, the course will be in hungarian, but these
+biológusoknak I". This semester, the course will be in hungarian, but the
 notes are in english.
 
 The course builds heavily on the [Carpentries
@@ -460,6 +460,8 @@ needed, and export. Don't forget about the `library` function at the start,
 and what we discussed about comments, the length of lines, or stray `>` and `+`
 characters at the start of lines.
 
+The ideal R script [example](https://gist.github.com/esebesty/e7b15e66f3b1e6ce7ba992f0f3dfff6d).
+
 ## Week 8 - 30<sup>th</sup> of October - Endre Sebestyén
 
 *R graphics: data visualization with ggplot2*
@@ -597,6 +599,8 @@ Homework deadline is 24:00, 24<sup>th</sup> of November. We will discuss them
 next time.
 
 Polish and change your script from last week as discussed!
+
+The ideal shell script [example](https://gist.github.com/esebesty/0d9550bd0b6bc7941c6b0c6e0e91232e).
 
 ## Week 12 - 27<sup>th</sup> of November - Bence Szalai
 
