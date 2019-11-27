@@ -610,6 +610,12 @@ The ideal shell script [example](https://gist.github.com/esebesty/0d9550bd0b6bc7
 
 [Python for Biologists](https://github.com/mojones/python-for-biologists)
 
+###Homework: 
+You can find the **sequence.txt** file on the Jupyter Hub in the **/kurzus/data/** directory. Read in the DNA sequence from this file and create an RNA sequence from it (DNA -> reverse complement DNA -> RNA). Write this file into an **RNA.txt** file in your folder. If your notebook (**homework1.ipynb**) is placed in your folder on the Jupyter Hub, we can see it there, so no further action is needed (do not forget to place a **name.txt** file into your folder with your name). Otherwise you can submit your homework via the usual Dropbox method.
+
+To practise today's material, you can also access the notebook we used today (**/kurzus/python1.ipynb**), however for you have to copy this file to the **/code/** folder (to have correct path for data etc.). To copy, you can use your terminal skills :) (you can open a terminal on the Jupyter Hub by selecting the *New* tab in the right corner and selecting *Terminal*).
+
+
 
 ## Week 13 - 4<sup>th</sup> of December - Bence Szalai
 
