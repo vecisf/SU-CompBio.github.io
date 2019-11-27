@@ -604,7 +604,12 @@ The ideal shell script [example](https://gist.github.com/esebesty/0d9550bd0b6bc7
 
 ## Week 12 - 27<sup>th</sup> of November - Bence Szalai
 
-*Intro to python I: basic syntax, Jupyter development environment*
+[Jupyter Hub](https://10.4.101.7:8000/hub/login)
+
+[Anaconda](https://www.anaconda.com/distribution/)
+
+[Python for Biologists](https://github.com/mojones/python-for-biologists)
+
 
 ## Week 13 - 4<sup>th</sup> of December - Bence Szalai
 
