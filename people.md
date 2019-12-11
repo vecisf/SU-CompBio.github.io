@@ -73,16 +73,5 @@ transcriptional adaptation and minimal regulatory networks in cancer.
 
 <h3>Alumni</h3>
 
-<h4>Noam Makmal</h4>
-I am a medical student at [Semmelweis University](http://semmelweis.hu/english/).
-I was working on the analysis of genome, transcriptome and ChIP-seq datasets to
-develop novel tools for characterizing variance in chromatin structure, link it
-to oncogene or tumor suppressor gene expression and ultimately to cancer
-development and clinical characteristics of patients.
-
-<h4>András Udvarvölgyi</h4>
-I am a biochemical engineering student at [Budapest University of Technology and
-Economics](http://www.bme.hu/?language=en).  My project was about panel
-sequencing and evaluating raw sequencing data. The goal was to find patterns and
-similarities among the different samples, which were collected from Hungarian
-patients with cancer.
+* Noam Makmal
+* András Udvarvölgyi
