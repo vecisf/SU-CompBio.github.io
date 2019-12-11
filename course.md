@@ -631,4 +631,18 @@ To practise today's material, you can also access the notebook we used today (**
 
 ## Week 14 - 11<sup>th</sup> of December - Gábor Turu
 
-*Intro to python III: conditional statements, loops, functions*
+*Intro to python III: functions, more loops, more conditional statetments and more prints, modules and notebook magics*
+
+Delivery plan
+
+- Few tricks in notebook
+- Zip, enumerate and format
+- Python functions
+- Modules
+- Homework explanation
+
+### Homework
+* write a function which returns the position of the selected country in beer, wine, spirit or alcohol consumption on the list 
+of the countries listed in drinks.csv.
+
+
