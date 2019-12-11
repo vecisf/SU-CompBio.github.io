@@ -71,7 +71,7 @@ be other options worth considering.
 
 <h4>Detailed lists from others</h4>
 
-The following lists are colected by JHU administration and focusing on US, but
+The following lists are collected by JHU administration and focusing on US, but
 might contain information useful for hungarian/EU researchers.
 
 - [Graduate Student Funding Opportunities](https://research.jhu.edu/rdt/funding-opportunities/graduate/)
