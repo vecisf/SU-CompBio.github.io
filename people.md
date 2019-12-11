@@ -23,7 +23,8 @@ changing in different pathologic conditions.
 
 [Twitter](https://twitter.com/endre_sebestyen),
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=EFq-0McAAAAJ&view_op=list_works&sortby=pubdate),
-[doktori.hu](https://doktori.hu/index.php?menuid=192&lang=EN&sz_ID=30562)
+[doktori.hu](https://doktori.hu/index.php?menuid=192&lang=EN&sz_ID=30562),
+[Contact](http://semmelweis.hu/telefonkonyv/?emp_id=14945)
 
 <h3>Péter Szikora</h3>
 
