@@ -631,7 +631,7 @@ To practise today's material, you can also access the notebook we used today (**
 
 ## Week 14 - 11<sup>th</sup> of December - Gábor Turu
 
-*Intro to python III: functions, more loops, more conditional statetments and more prints, modules and notebook magics*
+*Intro to python III: functions, loops, conditional statetments and prints, notebook magics*
 
 Delivery plan
 
