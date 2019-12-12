@@ -638,7 +638,6 @@ Delivery plan
 - Few tricks in notebook
 - Zip, enumerate and format
 - Python functions
-- Modules
 - Homework explanation
 
 ### Homework
