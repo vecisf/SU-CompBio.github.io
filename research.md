@@ -15,10 +15,13 @@ large-scale datasets from high-throughput experiments.
 The various molecular processes of a cell are coordinated by complex gene
 regulatory networks. However, these processes are inherently noisy, and even
 isogenic cell populations show variance in RNA and protein expression levels.
-Increasing evidence shows that expression variance plays important roles in
-disease development by leading to aberrant gene regulatory network states. We
-are developing methods to characterize this expression variance, model its
-effect on gene regulatory networks, and characterize it in different cancer
+Increasing evidence shows that expression and splicing variance plays important
+roles in disease development by leading to aberrant gene regulatory network
+states. This variance is influenced by DNA sequence, histone modification
+patterns, chromatin structure, or the binding affinity of transcription and
+splicing factor binding sites, among other things.  We are developing methods to
+characterize expression variance and its determinants, model the effect of
+variance on gene regulatory networks, and characterize it in different cancer
 types.
 
 <h3>RNA-sequencing based diagnostic methods in cancer</h3>
@@ -29,7 +32,9 @@ only exert an effect if they are expressed. Additionally, RNA-based sequencing
 methods can provide useful information besides mutation status, including
 allele/mutation specific expression or splicing patterns. We are working on
 RNA-sequencing based analysis methods to improve initial cancer diagnosis,
-disease subtype classification, and the selection of treatment options.
+disease subtype classification, and the selection of treatment options. We aim
+to develop methods robust to experimental biases and technical limitations,
+usable at the single patient level.
 
 <h3>Bioinformatics and biostatistics support</h3>
 
