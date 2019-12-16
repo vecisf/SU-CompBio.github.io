@@ -7,6 +7,7 @@ categories: update
 
 ## Transcriptome noise as an alternative mutator phenotype in cancer
 
+<img align="left" width="200" height="200" src="{{ site.url }}/assets/5138480.jpg">
 Are you interested in analyzing terabytes of experimental data? Do you want to
 work on a project, where you need to combine biology, statistics, programming
 and answer challenging, interdisciplinary research questions? You think about
@@ -17,8 +18,6 @@ effect of this variance on somatic mutations and gene regulatory networks.
 Characterizing the determinants of variance might help in understanding early
 cancer development, drug resistance, metastasis and the varying penetrance of
 human diseases.
-
-![Analyze all the cancer data!]({{ site.url }}/assets/5138480.jpg)
 
 *What we offer*
 
