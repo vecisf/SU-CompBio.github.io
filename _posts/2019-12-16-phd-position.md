@@ -53,4 +53,6 @@ years of experience in diagnostic pathology, medical training and various fields
 of experimental cancer research. The PhD School provides a fellowship and a
 monthly research allowance for up to four years, and you will participate in a
 4-year project funded by the National Research, Development and Innovation
-Office of Hungary. [Semmelweis PhD School](http://semmelweis.hu/phd).
+Office of Hungary.
+
+[Semmelweis PhD School](http://semmelweis.hu/phd), [Stipendium Hungaricum](http://studyinhungary.hu/study-in-hungary/menu/stipendium-hungaricum-scholarship-programme)
