@@ -36,7 +36,7 @@ human diseases.
 If interested, please check that you are eligible, and drop us an email with
 your CV, list of publications, together with a short summary of your most
 significant scientific contribution and main interests to the following email
-address: sebestyen.endre@med.semmelweis-univ.hu with “PhD Application -
+address: *sebestyen.endre@med.semmelweis-univ.hu* with “PhD Application -
 Transcriptional noise” in the subject.
 
 If you are planning to apply for the Stipendium Hungaricum fellowship, please
