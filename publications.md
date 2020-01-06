@@ -7,6 +7,13 @@ order: 4
 
 <h4>Current work</h4>
 
+- S. Atashpaz, S. S. Shams, J. M. Gonzalez, **E. Sebestyén**, N. Arghavanifard,
+  A. Gnocchi, E. Albers, S. Minardi, G. Faga, P. Soffientini, E. Allievi, V.
+  Cancila, A. Bachi, O. Fernandez-Capetillo, C. Tripodo, F. Ferrari, A. J.
+  López-Contreras, V. Costanzo (2020) ATR expands embryonic stem cell fate
+  potential in response to replication stress. bioRxiv,
+  [doi:10.1101/2020.01.01.888354](http://dx.doi.org/10.1101/2020.01.01.888354)
+
 - **E. Sebestyén**, F. Marullo, F. Lucini, A. Bianchi, C. Petrini, S. Valsoni,
   I. Olivieri, L. Antonelli, F. Gregoretti, G. Oliva, F. Ferrari, C. Lanzuolo
   (2019) Early Polycomb-target deregulation in Hutchinson-Gilford Progeria
