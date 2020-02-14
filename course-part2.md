@@ -46,6 +46,14 @@ Extra homework: [Google Code Jam 2019Q Foregone Solution](https://codingcompetit
 
 ## Week 2: Python recap II. (Gábor Turu)
 
+ * Notebook tips and tricks
+
+ Functions: 
+ * types of funtions
+ * functions vs. methods
+ * arguments, variable number of arguments 
+ * anonymous funtions
+
 ## Week 3: Python Pandas I. (Bence Szalai)
 
 ## Week 4: Python Pandas II. (Gábor Turu)
