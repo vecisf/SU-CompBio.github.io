@@ -55,6 +55,16 @@ Extra homework: [Google Code Jam 2019Q Foregone Solution](https://codingcompetit
  * anonymous funtions
 
 ## Week 3: Python Pandas I. (Bence Szalai)
+Pandas basics:
+
+* Series
+* DataFrame
+* I/O
+* concat, merge
+
+Additional reading: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+Homework merge **egfr.csv** and **cell_anno.txt, using COSMIC IDs
 
 ## Week 4: Python Pandas II. (Gábor Turu)
 
