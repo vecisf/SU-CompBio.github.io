@@ -68,6 +68,20 @@ Homework merge **egfr.csv** and **cell_anno.txt, using COSMIC IDs
 
 ## Week 4: Python Pandas II. (Gábor Turu)
 
+Pandas: 
+ * Loading data
+ * Exploring data
+ * Handling missing values
+ * Apply functions on data
+ * Group data
+ * Melt and pivot table
+
+Homework: 
+ * download and load candy power data
+ * calculate the average winnig rate of the chocolate-containing candies
+ * data : https://raw.githubusercontent.com/fivethirtyeight/data/master/candy-power-ranking/candy-data.csv
+ * info: https://fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/
+
 ## Week 5: Python Pandas III. (Miklós Cserző)
 
 ## Week 6: Python matplotlib (Gábor Turu)
