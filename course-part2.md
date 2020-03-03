@@ -28,30 +28,77 @@ Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.htm
 
 **Teachers**: Bence Szalai, Gábor Turu, Miklós Cserző, Endre Sebestyén
 
-## Week 1
+## Week 1: Python recap I. (Bence Szalai)
+How to use Python:
 
-## Week 2
+* [Jupyter Hub](https://10.4.101.2:8000/hub/login): usable from Semmelweis network (and sometimes IP adress changes, in this case let us know)
+* [Google Colab](https://colab.research.google.com): usable anywhere (with network), data is not stored for long time, requires Google account
+* [Anaconda](https://www.anaconda.com/distribution/): locally on your computer
 
-## Week 3
+Today's excersises: [Rosalind](http://rosalind.info/problems/locations/)
 
-## Week 4
+[Data repository](https://drive.google.com/drive/folders/1f-3RZ-mrj3PaDMtBIzL79N2qLHBJA1oJ?usp=sharing)
 
-## Week 5
+Homework: 2 problems from Rosalind
 
-## Week 6
+Extra homework: [Google Code Jam 2019Q Foregone Solution](https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/0000000000088231)
 
-## Week 7
 
-## Week 8
+## Week 2: Python recap II. (Gábor Turu)
 
-## Week 9
+ * Notebook tips and tricks
 
-## Week 10
+ Functions: 
+ * types of funtions
+ * functions vs. methods
+ * arguments, variable number of arguments 
+ * anonymous funtions
 
-## Week 11
+## Week 3: Python Pandas I. (Bence Szalai)
+Pandas basics:
 
-## Week 12
+* Series
+* DataFrame
+* I/O
+* concat, merge
 
-## Week 13
+Additional reading: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-## Week 14
+Homework merge **egfr.csv** and **cell_anno.txt, using COSMIC IDs
+
+## Week 4: Python Pandas II. (Gábor Turu)
+
+Pandas: 
+ * Loading data
+ * Exploring data
+ * Handling missing values
+ * Apply functions on data
+ * Group data
+ * Melt and pivot table
+
+Homework: 
+ * download and load candy power data
+ * calculate the average winnig rate of the chocolate-containing candies
+ * data : https://raw.githubusercontent.com/fivethirtyeight/data/master/candy-power-ranking/candy-data.csv
+ * info: https://fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/
+
+## Week 5: Python Pandas III. (Miklós Cserző)
+
+## Week 6: Python matplotlib (Gábor Turu)
+
+## Week 7: Python seaborn (Bence Szalai)
+
+## Week 8: R, command line recap (Endre Sebestyén)
+
+## Week 9: R, command line RNAseq I. (Endre Sebestyén)
+
+## Week 10: R, command line RNAseq II. (Endre Sebestyén)
+
+## Week 11: R, command line RNAseq III. (Endre Sebestyén)
+
+
+## Week 12: Python expolrative data analysis (Gábor Turu)
+
+## Week 13: Python modelling, machine learning I. (Bence Szalai)
+
+## Week 14: Python modelling, machine learning II. (Gábor Turu)
