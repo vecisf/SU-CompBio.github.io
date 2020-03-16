@@ -5,14 +5,13 @@ permalink: /publications/
 order: 4
 ---
 
-<h4>Current work</h4>
+<h4>Preprints</h4>
 
-- S. Atashpaz, S. S. Shams, J. M. Gonzalez, **E. Sebestyén**, N. Arghavanifard,
-  A. Gnocchi, E. Albers, S. Minardi, G. Faga, P. Soffientini, E. Allievi, V.
-  Cancila, A. Bachi, O. Fernandez-Capetillo, C. Tripodo, F. Ferrari, A. J.
-  López-Contreras, V. Costanzo (2020) ATR expands embryonic stem cell fate
-  potential in response to replication stress. bioRxiv,
-  [doi:10.1101/2020.01.01.888354](http://dx.doi.org/10.1101/2020.01.01.888354)
+- E. Kerschbamer, T. Tripathi, S. Erdin, E. Salviato, F. Di Leva, **E.
+  Sebestyén**, M. Arnoldi, M. Benelli, J. F. Gusella, S. Piazza, F. Demichelis,
+  M. E. Talkowski, F. Ferrari, M. Biagioli (2020) CHD8 Suppression Impacts on
+  Histone H3 Lysine Trimethylation and Alters RNA Alternative Splicing. bioRxiv,
+  [doi:10.1101/2020.03.14.992032](http://dx.doi.org/10.1101/2020.03.14.992032)
 
 - **E. Sebestyén**, F. Marullo, F. Lucini, A. Bianchi, C. Petrini, S. Valsoni,
   I. Olivieri, L. Antonelli, F. Gregoretti, G. Oliva, F. Ferrari, C. Lanzuolo
@@ -20,7 +19,14 @@ order: 4
   Syndrome revealed by heterochromatin analysis. bioRxiv,
   [doi:10.1101/799668](http://dx.doi.org/10.1101/799668)
 
-<h4>The past</h4>
+<h4>Papers</h4>
+
+- S. Atashpaz, S. S. Shams, J. M. Gonzalez, **E. Sebestyén**, N. Arghavanifard,
+  A. Gnocchi, E. Albers, S. Minardi, G. Faga, P. Soffientini, E. Allievi, V.
+  Cancila, A. Bachi, O. Fernandez-Capetillo, C. Tripodo, F. Ferrari, A. J.
+  López-Contreras, V. Costanzo (2020) ATR expands embryonic stem cell fate
+  potential in response to replication stress. eLife 9:e54756,
+  [doi:10.7554/eLife.54756](http://dx.doi.org/10.7554/eLife.54756)
 
 - C. Bruckmann, **E. Sebestyén** (2017) Ten simple rules to initiate and run a
 postdoctoral association. PLOS Comput Biol, 13(8): e1005664,
