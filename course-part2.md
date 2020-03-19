@@ -28,7 +28,7 @@ Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.htm
 
 **Teachers**: Bence Szalai, Gábor Turu, Miklós Cserző, Endre Sebestyén
 
-## Week 1: Python recap I. (Bence Szalai)
+## Week 1 (2020-02-05): Python recap I. (Bence Szalai)
 How to use Python:
 
 * [Jupyter Hub](https://10.4.101.2:8000/hub/login): usable from Semmelweis network (and sometimes IP adress changes, in this case let us know)
@@ -44,7 +44,7 @@ Homework: 2 problems from Rosalind
 Extra homework: [Google Code Jam 2019Q Foregone Solution](https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/0000000000088231)
 
 
-## Week 2: Python recap II. (Gábor Turu)
+## Week 2 (2020-02-12): Python recap II. (Gábor Turu)
 
  * Notebook tips and tricks
 
@@ -54,7 +54,7 @@ Extra homework: [Google Code Jam 2019Q Foregone Solution](https://codingcompetit
  * arguments, variable number of arguments 
  * anonymous funtions
 
-## Week 3: Python Pandas I. (Bence Szalai)
+## Week 3 (2020-02-19): Python Pandas I. (Bence Szalai)
 Pandas basics:
 
 * Series
@@ -66,7 +66,7 @@ Additional reading: [Python Data Science Handbook](https://jakevdp.github.io/Pyt
 
 Homework merge **egfr.csv** and **cell_anno.txt, using COSMIC IDs
 
-## Week 4: Python Pandas II. (Gábor Turu)
+## Week 4 (2020-02-26): Python Pandas II. (Gábor Turu)
 
 Pandas: 
  * Loading data
@@ -82,23 +82,22 @@ Homework:
  * data : https://raw.githubusercontent.com/fivethirtyeight/data/master/candy-power-ranking/candy-data.csv
  * info: https://fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/
 
-## Week 5: Python Pandas III. (Miklós Cserző)
+## Week 5 (2020-03-04): Python Pandas III. (Miklós Cserző)
 
-## Week 6: Python matplotlib (Gábor Turu)
+## Week 6 (2020-03-25): Python matplotlib (Gábor Turu)
 
-## Week 7: Python seaborn (Bence Szalai)
+## Week 7 (2020-04-01): Python seaborn (Bence Szalai)
 
-## Week 8: R, command line recap (Endre Sebestyén)
+## Week 8 (2020-04-08): R, command line recap (Endre Sebestyén)
 
-## Week 9: R, command line RNAseq I. (Endre Sebestyén)
+## Week 9 (2020-04-15): R, command line RNAseq I. (Endre Sebestyén)
 
-## Week 10: R, command line RNAseq II. (Endre Sebestyén)
+## Week 10 (2020-04-22): R, command line RNAseq II. (Endre Sebestyén)
 
-## Week 11: R, command line RNAseq III. (Endre Sebestyén)
+## Week 11 (2020-04-29): R, command line RNAseq III. (Endre Sebestyén)
 
+## Week 12 (2020-05-06): Python expolrative data analysis (Gábor Turu)
 
-## Week 12: Python expolrative data analysis (Gábor Turu)
+## Week 13 (2020-05-13): Python modelling, machine learning I. (Bence Szalai)
 
-## Week 13: Python modelling, machine learning I. (Bence Szalai)
-
-## Week 14: Python modelling, machine learning II. (Gábor Turu)
+## Week 14 (2020-05-20): Python modelling, machine learning II. (Gábor Turu)
