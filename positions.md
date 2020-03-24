@@ -54,6 +54,7 @@ be other options worth considering.
 - [Semmelweis University Directorate of Innovation](http://semmelweis.hu/innovacios-igazgatosag/)
 - [Stipendium Hungaricum PhD fellowship](http://studyinhungary.hu/study-in-hungary/menu/stipendium-hungaricum-scholarship-programme)
 - [Bilateral State Scholarships](https://tka.hu/international-programmes/4127/bilateral-state-scholarships)
+- [Tempus Public Foundation](https://tka.hu/english)
 - [Opportunities for PhD students at Semmelweis University](http://semmelweis.hu/phd/category/palyazatok/)
 - [MTA Prémium Postdoc fellowship](http://mta.hu/mta-premium-posztdoktori-kutatoi-program_762)
 - [Posztdoktori Kiválósági Program](http://nkfih.gov.hu/palyazoknak/posztdoktori-kivalosagi/posztdoktori-kivalosagi-180603)
@@ -61,6 +62,10 @@ be other options worth considering.
 - [CEEPUS Mobility Fellowship](http://www.ceepus.info/#nbb)
 - [Erasmus+ Mobility Fellowship](http://studyinhungary.hu/study-in-hungary/menu/scholarships/erasmus.html)
 - [ÚNKP ösztöndíjpályázatok](http://www.unkp.gov.hu/unkp-rol)
+- [Kerpel Fronius Talent Support Program](http://semmelweis.hu/kerpel/)
+- [Stephen W. Kuffler Research Foundation](http://www.kuffler.org/en/index.html)
+- [Eurolife Mobility Program](http://eurolifeuniversities.org/education/eurolife-mobility-programme/)
+- [Visegrad Scholarship Program](https://www.visegradfund.org/apply/mobilities/visegrad-scholarship/)
 
 <h4>International fellowships and opportunities</h4>
 - [Boehringer Ingelheim PhD fellowship](https://www.bifonds.de/fellowships-grants/phd-fellowships.html)
@@ -83,3 +88,4 @@ by eLife Ambassadors.
 
 - [Funding schemes for postdoctoral fellowships](https://asntech.github.io/postdoc-funding-schemes/)
 - [Travel funding opportunities for postdocs](https://asntech.github.io/postdoc-funding-schemes/travel-grants/)
+- [Early Career Researchers Central](https://ecrcentral.org/)
