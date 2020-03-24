@@ -86,6 +86,15 @@ Homework:
 
 ## Week 6 (2020-03-25): Python matplotlib (Gábor Turu)
 
+Overview of the python plotting libraries
+
+Matplotlib:
+ * Creation of basic plots
+ * Managing basic graph layouts
+ 
+Pandas:
+ * Data filtering
+
 ## Week 7 (2020-04-01): Python seaborn (Bence Szalai)
 
 ## Week 8 (2020-04-08): R, command line recap (Endre Sebestyén)
