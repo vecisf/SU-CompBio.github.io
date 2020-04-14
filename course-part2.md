@@ -97,6 +97,12 @@ Pandas:
 
 ## Week 7 (2020-04-01): Python seaborn (Bence Szalai)
 
+[GSE33267](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE33267): gene expression dataset
+
+[Color palettes](https://seaborn.pydata.org/tutorial/color_palettes.html)
+
+[Python graph galery](https://python-graph-gallery.com)
+
 ## Week 8 (2020-04-08): R, command line recap (Endre Sebestyén)
 
 ## Week 9 (2020-04-15): R, command line RNAseq I. (Endre Sebestyén)
