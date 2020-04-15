@@ -21,7 +21,6 @@ sequencing datasets to identify driver mutations in non-coding enhancer regions.
 My main interests are eukaryotic gene regulatory networks and how they are
 changing in different pathologic conditions.
 
-[Twitter](https://twitter.com/endre_sebestyen),
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=EFq-0McAAAAJ&view_op=list_works&sortby=pubdate),
 [doktori.hu](https://doktori.hu/index.php?menuid=192&lang=EN&sz_ID=30562),
 [Contact](http://semmelweis.hu/telefonkonyv/?emp_id=14945)
