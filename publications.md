@@ -7,6 +7,11 @@ order: 4
 
 <h4>Preprints</h4>
 
+- C. M. Livi, I. Tagliaferri, K. Pal, **E. Sebestyén**, F. Lucini, A. Bianchi,
+  S. Valsoni, C. Lanzuolo, F. Ferrari (2020) A ChIC solution for ChIP-seq
+  quality assessment. bioRxiv,
+  [doi:10.1101/2020.05.19.103887](http://dx.doi.org/10.1101/2020.05.19.103887)
+
 - E. Kerschbamer, T. Tripathi, S. Erdin, E. Salviato, F. Di Leva, **E.
   Sebestyén**, M. Arnoldi, M. Benelli, J. F. Gusella, S. Piazza, F. Demichelis,
   M. E. Talkowski, F. Ferrari, M. Biagioli (2020) CHD8 Suppression Impacts on
