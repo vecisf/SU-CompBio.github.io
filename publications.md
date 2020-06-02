@@ -26,6 +26,11 @@ order: 4
 
 <h4>Papers</h4>
 
+- A. Szücs, S. Paku, E. Sebestyén, P. Nagy, K. Dezső (2020) Postnatal, ontogenic
+  liver growth accomplished by biliary/oval cell proliferation and
+  differentiation. PLOS ONE, 15(5): e0233736,
+  [doi:10.1371/journal.pone.0233736](http://dx.doi.org/10.1371/journal.pone.0233736)
+
 - S. Atashpaz, S. S. Shams, J. M. Gonzalez, **E. Sebestyén**, N. Arghavanifard,
   A. Gnocchi, E. Albers, S. Minardi, G. Faga, P. Soffientini, E. Allievi, V.
   Cancila, A. Bachi, O. Fernandez-Capetillo, C. Tripodo, F. Ferrari, A. J.
