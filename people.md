@@ -5,73 +5,77 @@ permalink: /people/
 order: 3
 ---
 
-<h3>Endre Sebestyén</h3>
+<h3>Benedek Dankó - MSc Student</h3>
 
-I obtained my PhD in 2012 at the [Eötvös Loránd
-University](https://www.elte.hu/en/), in Classical and Molecular Genetics,
-working on the bioinformatic analysis of eukaryotic promoters and transcription
-factor binding sites in the group of [Endre Barta](https://abc.naik.hu/en/organizational-units/abc-department-of-genomics-agricultural-genomics-and-bioinformatics).
-After this, I joined the lab of [Eduardo Eyras](http://comprna.upf.edu/) at UPF,
-Barcelona, working on the role of alternative splicing in cancer development and
-using splicing patterns as predictive and prognostic signatures of cancer. In
-2015, I moved to the lab of [Francesco Ferrari](https://www.ifom.eu/en/cancer-research/research-labs/research-lab-ferrari.php)
-at IFOM, Milan, where I worked on developing a novel sequencing method to
-characterize large-scale chromatin structure, besides analyzing whole-genome
-sequencing datasets to identify driver mutations in non-coding enhancer regions.
-My main interests are eukaryotic gene regulatory networks and how they are
-changing in different pathologic conditions.
+I am studying for a master's degree in biology, with a bioinformatics
+specialization at Eötvös Loránd University. My research topic covers the
+transcriptional profiling of myelodysplastic syndrome (MDS) and analysis of
+databases related to this disease. Moreover, I am interested in human genetics,
+cancer biology, bioinformatics and genomics.
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=EFq-0McAAAAJ&view_op=list_works&sortby=pubdate),
-[doktori.hu](https://doktori.hu/index.php?menuid=192&lang=EN&sz_ID=30562),
-[Contact](http://semmelweis.hu/telefonkonyv/?emp_id=14945)
+[Contact](mailto:dankobenedek@gmail.com), [CV]({{ site.url }}/assets/group_docs/CV_Benedek_Danko.pdf)
 
-<h3>Péter Szikora</h3>
+<h3>Tibor Nagy - Bioinformatics System Administrator</h3>
 
-I am finishing as a master student in Medical Biotechnology at [Pázmány Péter Catholic
-University](https://itk.ppke.hu/en), focusing on molecular oncology and genomics.
-Before that, I completed my professional practice at the National Institute of
-Environmental Health, working on the molecular analysis of pathogenic bacteria
-from hospital water samples. I am currently developing a bioinformatic workflow
-and working on the analysis of large-scale transcriptome datasets, splicing patterns
-and gene regulatory networks in cancer. Also I am working as a biological data analyst
-at the company [Turbine](https://turbine.ai/).
+My primary job is to keep the underlying software components of various analyses
+run smoothly. I like making automatic workflows for large datasets and
+optimizing existing analysis pipelines. I have diverse experience in bioinformatics,
+as I did GWAS and RNA-seq analysis, metagenomics and de-novo assembly of the
+genomes of unknown bacterial species.
 
-<h3>Alexa Szeifert</h3>
-I am a molecular bionics engineering student at [Pázmány Péter Catholic
-University](https://ppke.hu/en). Before I joined the group I was working on the 
-pathogenetic role of microRNAs in inflammatory diseases. Now, my project is 
-about the statistical analysis of RNA modifications in cancer.
+[Contact](mailto:nagy.tibor@med.unideb.hu), [CV]({{ site.url }}/assets/group_docs/CV_Tibor_Nagy.pdf), [Publications](https://scholar.google.com/citations?hl=en&user=qpUsynEAAAAJ&view_op=list_works&sortby=pubdate)
 
-<h3>Gábor Bedics</h3>
-I introduce myself as a PhD student at the Semmelweis University, Doctoral
-School of Pathology. My work is divided to two groups: the Hungarian Academy of
-Sciences - Semmelweis University Molecular Oncohematology Research Group with
-the supervision of Dr. Donát Alpár, and between the Semmelweis University
-Computational Biology Group with the supervision of Dr. Endre Sebestyén. The
-field of research I work on is the genetic sequencing of pediatric acute
-lymphoblastic leukemia (ALL) and the bioinformatical analysis of these data in
-order to identify mutations and give the opportunity for personalised therapy
-for these patients. I graduated as a Medical Doctor in 2019 at the University
-of Pécs.
+<h3>Tamás Pór - Bioinformatics Intern</h3>
 
-<h3>Veronika Vraukó</h3>
-I am graduated in Molecular bionics engineering [(University of Szeged)](http://sci.u-szeged.hu/english) 
-and have a master's degree in Medical biotechnology (Pázmány Péter Catholic University).
-I gained more than 2 years of laboratory experience in several fields of research, 
-including neurobiology, microbiology and molecular genetics as well. Now I am 
-a PhD student at the Semmelweis University, [Doctoral School of Pathology](http://semmelweis.hu/phd/en/), 
-1st Department of Pathology and Experimental Cancer Research. My theme is about 
-transcriptional adaptation and minimal regulatory networks in cancer. 
+I am a molecular biologist with a strong interest in computational biology.
+After spending 10+ years in clinical research I turned back to academic research
+- part time at least. My current project is the analysis of transcriptional
+noise in cancer cells. 
 
-[LinkedIn](https://www.linkedin.com/in/veronika-vrauko/)
+[Contact](mailto:tomasz.por@gmail.com), [CV]({{ site.url }}/assets/group_docs/CV_Tamas_Por.pdf)
 
-<br />
+<h3>Endre Sebestyén - Group Leader</h3>
+
+My main research interests are eukaryotic transcriptional and
+post–transcriptional gene regulatory networks, their role in human disease and
+how these networks are influenced by genetic variability, the environment or the
+inherent noisiness and redundancy of molecular systems. Originally trained as a
+molecular biologist, now I have more than 15 years of experience in various
+aspects of computational and systems biology.
+
+[Contact](https://semmelweis.hu/telefonkonyv/?emp_id=14945), [CV]({{ site.url }}/assets/group_docs/CV_Endre_Sebestyen.pdf), [Publications](https://scholar.google.com/citations?hl=en&user=EFq-0McAAAAJ&view_op=list_works&sortby=pubdate)
+
+<h3>Alexa Szeifert - BSc Student</h3>
+
+I am a molecular bionics engineering student at Pázmány Péter Catholic
+University. Before joining the group, I was working on the pathogenetic role of
+microRNAs in inflammatory diseases. At the moment, my project is on the
+statistical analysis of RNA modifications in cancer. My main focus is analyzing
+genome and transcriptome sequencing data of hematologic malignances and examine
+the expression pattern of reader, writer and eraser enzyme coding genes in
+different healthy and tumor tissues, besides their potential regulatory effects.
+
+[Contact](mailto:alexaszeifert@gmail.com), [CV]({{ site.url }}/assets/group_docs/CV_Alexa_Szeifert.pdf)
+
+<h3>Veronika Vraukó - PhD Student</h3>
+
+I am a PhD student in the Experimental Oncology program of Semmelweis University,
+1st Department of Pathology and Experimental Cancer Research. My doctoral
+research examines the essentiality of biological functions in gene regulatory
+networks and their role in cancer development and disease penetrance. During my
+PhD work my focus is on bioinformatic and biostatistic methods, besides 
+systems biology and biological network approaches. I graduated in Molecular
+bionics engineering (University of Szeged) and have a master’s degree in Medical
+biotechnology (Pázmány Péter Catholic University).
+
+[Contact](mailto:vrauko.veronika@med.semmelweis-univ.hu), [CV]({{ site.url }}/assets/group_docs/CV_Veronika_Vrauko.pdf)
+
 <br />
 ------
-<br />
 <br />
 
 <h3>Alumni</h3>
 
 * Noam Makmal
 * András Udvarvölgyi
+* Péter Szikora
