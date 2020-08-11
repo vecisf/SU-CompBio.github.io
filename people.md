@@ -5,6 +5,16 @@ permalink: /people/
 order: 3
 ---
 
+<h3>Gábor Bedics - PhD Student</h3>
+
+My work in our institute focuses on next-generation sequencing and the related
+bioinformatic analyses. In my PhD project I intend to create a molecular profile
+of pediatric acute lymphoblastic leukemia patients in Hungary, using various NGS
+methods. Beyond that project, I analyse NGS data from other oncologic samples
+and work on a germline-NGS analysis project.
+
+[Contact](mailto:bedics.gabor@med.semmelweis-univ.hu), [CV]({{ site.url }}/assets/group_docs/CV_Gabor_Bedics.pdf)
+
 <h3>Benedek Dankó - MSc Student</h3>
 
 I am studying for a master's degree in biology, with a bioinformatics
