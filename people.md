@@ -38,9 +38,9 @@ genomes of unknown bacterial species.
 <h3>Tamás Pór - Bioinformatics Intern</h3>
 
 I am a molecular biologist with a strong interest in computational biology.
-After spending 10+ years in clinical research I turned back to academic research
-- part time at least. My current project is the analysis of transcriptional
-noise in cancer cells. 
+After spending 10+ years in clinical research I turned back to academic
+research, part time at least. My current project is the analysis of
+transcriptional noise in cancer cells. 
 
 [Contact](mailto:tomasz.por@gmail.com), [CV]({{ site.url }}/assets/group_docs/CV_Tamas_Por.pdf)
 
