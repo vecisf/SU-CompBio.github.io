@@ -35,7 +35,7 @@ genomes of unknown bacterial species.
 
 [Contact](mailto:nagy.tibor@med.unideb.hu), [CV]({{ site.url }}/assets/group_docs/CV_Tibor_Nagy.pdf), [Publications](https://scholar.google.com/citations?hl=en&user=qpUsynEAAAAJ&view_op=list_works&sortby=pubdate)
 
-<h3>Tamás Pór - Bioinformatics Intern</h3>
+<h3>Tamás Pór - Volunteer Research Assistant</h3>
 
 I am a molecular biologist with a strong interest in computational biology.
 After spending 10+ years in clinical research I turned back to academic
@@ -87,5 +87,5 @@ biotechnology (Pázmány Péter Catholic University).
 <h3>Alumni</h3>
 
 * Noam Makmal
-* András Udvarvölgyi
 * Péter Szikora
+* András Udvarvölgyi
