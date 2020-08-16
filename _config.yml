@@ -25,7 +25,8 @@ github_username: SU-CompBio
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
