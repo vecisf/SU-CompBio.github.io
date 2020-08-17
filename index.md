@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 The group is located at the [1st Department of Pathology and Experimental Cancer
