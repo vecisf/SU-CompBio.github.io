@@ -1,12 +1,14 @@
-<style type="text/css">
-  #footer {
-    position : absolute;
-    bottom : 0;
-    height : 40px;
-    margin-top : 40px;
-  }
-</style>
-<footer class="site-footer">
-  <span class="site-footer-credits"> <a href="https://github.com/SU-CompBio">GitHub </a>.</span>
-  <span class="site-footer-credits"> <a href="https://twitter.com/SU_CompBio">Twitter </a>.</span>
+<footer>
+  <div class="footer-wrap">
+    <div class="footer-tagline">
+      <p>{{ site.data.settings.footer }}</p>
+    </div>
+    <div class="social-media">
+      <nav>
+        {% for item in site.data.settings.social %}
+          <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+        {% endfor %}
+      </nav>
+    </div>
+  </div>
 </footer>
