@@ -25,6 +25,12 @@ cancer biology, bioinformatics and genomics.
 
 [Contact](mailto:dankobenedek@gmail.com), [CV]({{ site.url }}/assets/group_docs/CV_Benedek_Danko.pdf)
 
+<h3>Tamás Nádasi - Medical Student</h3>
+
+I am a medical student at the Semmelweis University. It was my interest in genomics and systems biology that led me to this group. Initially, I am being introduced to the lab’s work through the analysis of transplant patients’ multigene panel tests. Prior to medical school, I completed my undergraduate education at the University of Rochester, and hold a BSc degree in Computational Biology.
+
+[Contact](mailto:nadasi.tamas97@gmail.com), [CV]({{ site.url }}/assets/group_docs/CV_Tamas_Nadasi.pdf)
+
 <h3>Tibor Nagy - Bioinformatics System Administrator</h3>
 
 My primary job is to keep the underlying software components of various analyses
