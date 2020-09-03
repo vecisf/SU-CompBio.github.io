@@ -29,7 +29,7 @@ cancer biology, bioinformatics and genomics.
 
 I am a medical student at the Semmelweis University. It was my interest in genomics and systems biology that led me to this group. Initially, I am being introduced to the lab’s work through the analysis of transplant patients’ multigene panel tests. Prior to medical school, I completed my undergraduate education at the University of Rochester, and hold a BSc degree in Computational Biology.
 
-[Contact](mailto:nadasi.tamas97@gmail.com), [CV]({{ site.url }}/assets/group_docs/CV_Tamas_Nadasi.pdf)
+[Contact](mailto:nadasi.tamas97@gmail.com), [CV]({{ site.url }}/assets/group_docs/CV_Tamas_Nadasi.pdf), [Publications](https://scholar.google.com/citations?user=rt2cS_kAAAAJ&hl=en)
 
 <h3>Tibor Nagy - Bioinformatics System Administrator</h3>
 
