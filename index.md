@@ -19,3 +19,10 @@ Research, Development and Innovation Office
 ([NKFIH](https://nkfih.gov.hu/for-the-applicants)), and participates in the
 [EPITRAN](https://www.cost.eu/actions/CA16120/) and
 [NUCLEOME](https://www.cost.eu/actions/CA18127/) COST research networks.
+<br>
+
+<center>
+
+![](/assets/img/su-compbio-csoportkep.jpg){#id .class width=70% height=70%} 
+
+</center>
