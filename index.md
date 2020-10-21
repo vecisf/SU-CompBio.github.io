@@ -20,5 +20,6 @@ Research, Development and Innovation Office
 [EPITRAN](https://www.cost.eu/actions/CA16120/) and
 [NUCLEOME](https://www.cost.eu/actions/CA18127/) COST research networks.
 <br>
+<br>
 
 ![Group_photo](/assets/img/su-compbio-csoportkep.jpg)
