@@ -23,6 +23,6 @@ Research, Development and Innovation Office
 
 <center>
 
-![](/assets/img/su-compbio-csoportkep.jpg){#id .class width=70% height=70%} 
+![Group_photo](/assets/img/su-compbio-csoportkep.jpg)
 
 </center>
