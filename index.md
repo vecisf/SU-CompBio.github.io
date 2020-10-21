@@ -21,8 +21,4 @@ Research, Development and Innovation Office
 [NUCLEOME](https://www.cost.eu/actions/CA18127/) COST research networks.
 <br>
 
-<center>
-
 ![Group_photo](/assets/img/su-compbio-csoportkep.jpg)
-
-</center>
