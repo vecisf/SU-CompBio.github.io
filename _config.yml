@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Semmelweis University Computational Biology Group
-email: sebestyen.endre@med.semmelweis-univ.hu
+title: Computational Biology Group
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Semmelweis University Computational Biology Group at the 1st Department of
-  Pathology and Experimental Cancer Research. H-1085 Budapest, Üllői út 26.
-  Hungary
+  Semmelweis University - 1st Department of Pathology and Experimental Cancer Research
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SU_CompBio
@@ -26,7 +24,8 @@ github_username: SU-CompBio
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
+#theme: minima
 plugins:
   - jekyll-feed
 

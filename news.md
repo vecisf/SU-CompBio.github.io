@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News
+title: Group news
 permalink: /news/
 order: 1
 ---
